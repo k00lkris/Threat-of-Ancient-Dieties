@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "bf884025c2f80114",
+    "type": "split",
+    "children": [
+      {
+        "id": "79923c0da15c5018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e89d05e6e6e93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. NPCs/Lord Bartholomew Hargraves.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2cb6c5a0cc6fea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "711742511a754b27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6408feb2f261390e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9462d90ff416d168",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f07b7b3b645e7f4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422.5
+  },
+  "right": {
+    "id": "949ed19643daeca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2b5244658af7b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab6e323facadaa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. NPCs/Lord Bartholomew Hargraves.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7eb852e9b2aa71f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. NPCs/Lord Bartholomew Hargraves.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "318c5a8f4e11cc58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "391b9ee2d4dacb84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. NPCs/Lord Bartholomew Hargraves.md"
+              }
+            }
+          },
+          {
+            "id": "619d16d5fab2bf34",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "363889a074d2c4ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38913f5f621e8c9f",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "39e89d05e6e6e93c",
+  "lastOpenFiles": [
+    "Lord Bartholomew Hargrave 1.png",
+    "Lord Bartholomew Hargrave.png",
+    "5. NPCs/Untitled.md",
+    "5. NPCs/Lord Bartholomew Hargraves.md",
+    "z_Templates/NewNPC.md",
+    "1. DM Screen/Dashboard.md",
+    "3. Characters/Celestriel Noryra.md",
+    "4. Locations/Regional Maps",
+    "3. Characters/Heijla Valkyr.md",
+    "3. Characters/Hurk Dingleback.md",
+    "3. Characters/Letrixe Embel.md",
+    "3. Characters/Notos.md",
+    "3. Characters/3. Characters.md",
+    "Welcome.md",
+    "1. DM Screen",
+    "z_Templates",
+    "2. Main Story",
+    "6. Session Notes",
+    "3. Characters",
+    "7. Side Quests",
+    "5. NPCs",
+    "4. Locations"
+  ]
+}
