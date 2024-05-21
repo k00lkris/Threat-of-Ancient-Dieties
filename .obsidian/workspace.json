@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. NPCs/Lord Bartholomew Hargraves.md",
+                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f710c71f9c48c75b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Random Encounters/Lost Child in the Woods.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. NPCs/Lord Bartholomew Hargraves.md",
+                "file": "9. Random Encounters/Lost Child in the Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. NPCs/Lord Bartholomew Hargraves.md",
+                "file": "9. Random Encounters/Lost Child in the Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. NPCs/Lord Bartholomew Hargraves.md"
+                "file": "9. Random Encounters/Lost Child in the Woods.md"
               }
             }
           },
@@ -174,29 +187,42 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "39e89d05e6e6e93c",
+  "active": "f710c71f9c48c75b",
   "lastOpenFiles": [
+    "Lilly Meadowbrook.jpg",
+    "9. Random Encounters/Bandit Ambush.md",
+    "9. Random Encounters/Lost Child in the Woods.md",
+    "5. NPCs/Seraphis.md",
+    "9. Random Encounters",
+    "8. Side Quests",
+    "7. Main Quest",
+    "5. NPCs/Allies/Vincinte Laurent.md",
+    "3. Characters/Letrixe Embel.md",
+    "1. DM Screen/Reputation System.md",
+    "6. Organizations/The Clasp.md",
+    "6. Organizations/The Obsidian Veil.md",
+    "6. Organizations",
+    "Seraphis.jpg",
+    "5. NPCs/Enemies",
+    "5. NPCs/Allies",
+    "Vincente Laurent.jpg",
+    "1. DM Screen/Dashboard.md",
+    "3. Characters/Heijla Valkyr.md",
+    "3. Characters/Celestriel Noryra.md",
+    "4. Locations/Tal'Dorei.md",
+    "Pasted image 20240521100548.png",
+    "4. Locations",
+    "4. Locations.md",
+    "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
     "Lord Bartholomew Hargrave 1.png",
     "Lord Bartholomew Hargrave.png",
-    "5. NPCs/Untitled.md",
-    "5. NPCs/Lord Bartholomew Hargraves.md",
     "z_Templates/NewNPC.md",
-    "1. DM Screen/Dashboard.md",
-    "3. Characters/Celestriel Noryra.md",
     "4. Locations/Regional Maps",
-    "3. Characters/Heijla Valkyr.md",
     "3. Characters/Hurk Dingleback.md",
-    "3. Characters/Letrixe Embel.md",
     "3. Characters/Notos.md",
     "3. Characters/3. Characters.md",
     "Welcome.md",
     "1. DM Screen",
-    "z_Templates",
-    "2. Main Story",
-    "6. Session Notes",
-    "3. Characters",
-    "7. Side Quests",
-    "5. NPCs",
-    "4. Locations"
+    "z_Templates"
   ]
 }
