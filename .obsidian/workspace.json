@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Random Encounters/Lost Child in the Woods.md",
+                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Random Encounters/Lost Child in the Woods.md",
+                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Random Encounters/Lost Child in the Woods.md",
+                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Random Encounters/Lost Child in the Woods.md"
+                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md"
               }
             }
           },
@@ -189,40 +189,47 @@
   },
   "active": "f710c71f9c48c75b",
   "lastOpenFiles": [
+    "4. Locations/Whitestone/Places of Interest/The Sun Tree.md",
+    "4. Locations/Whitestone/Places of Interest/House of the Lawbearer.md",
+    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
+    "4. Locations/Whitestone/Places of Interest/Whitestone Castle.md",
+    "4. Locations/Whitestone/Places of Interest/Tipsy Quorum.md",
+    "4. Locations/Whitestone/Places of Interest/Heart of Whitestone.md",
+    "4. Locations/Whitestone/Places of Interest/Slayer's Cake.md",
+    "4. Locations/Whitestone/Places of Interest/The Zenith.md",
+    "4. Locations/Whitestone/Places of Interest/The Ziggurat.md",
+    "4. Locations/Whitestone/Places of Interest/The Greyfield.md",
+    "4. Locations/Whitestone/Districts",
+    "4. Locations/Whitestone/Shops/List Of Shops.md",
+    "4. Locations/Whitestone/Shops/The Traveler's Haven.md",
+    "4. Locations/Whitestone/Shops/The Howling Wolf.md",
+    "4. Locations/Whitestone/Shops/The Crystal Veil.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Seafarer's Rest.md",
+    "4. Locations/Whitestone/Shops/The Velvet Rose.md",
+    "4. Locations/Whitestone/Shops/The Lucky Coin.md",
+    "4. Locations/Whitestone/Shops/The Serpent's Coil.md",
+    "4. Locations/Whitestone/Shops/The Bronze Shield.md",
+    "4. Locations/Whitestone/Shops/The Bright Lantern.md",
+    "4. Locations/Whitestone/Shops/The Enchanted Flute.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Golden Goose.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Frosty Mug.md",
+    "4. Locations/Whitestone/Shops/The Roaring Griffin.md",
+    "4. Locations/Whitestone/Shops/The Clockwork Wonders.md",
+    "4. Locations/Whitestone/Shops/The Gilded Cage.md",
+    "4. Locations/Whitestone/Pubs and Inns",
+    "4. Locations/Whitestone/Shops",
+    "4. Locations/Whitestone/Places of Interest",
+    "4. Locations/Whitestone",
+    "5. NPCs/Relationships",
+    "4. Locations/Zephyr's Haven",
+    "5. NPCs/Whitestone",
+    "7. Main Quest/1. Arrival in Whitestone",
+    "4. Locations/Anthal's Bend",
     "Lilly Meadowbrook.jpg",
-    "9. Random Encounters/Bandit Ambush.md",
-    "9. Random Encounters/Lost Child in the Woods.md",
-    "5. NPCs/Seraphis.md",
-    "9. Random Encounters",
-    "8. Side Quests",
-    "7. Main Quest",
-    "5. NPCs/Allies/Vincinte Laurent.md",
-    "3. Characters/Letrixe Embel.md",
-    "1. DM Screen/Reputation System.md",
-    "6. Organizations/The Clasp.md",
-    "6. Organizations/The Obsidian Veil.md",
-    "6. Organizations",
     "Seraphis.jpg",
-    "5. NPCs/Enemies",
-    "5. NPCs/Allies",
     "Vincente Laurent.jpg",
-    "1. DM Screen/Dashboard.md",
-    "3. Characters/Heijla Valkyr.md",
-    "3. Characters/Celestriel Noryra.md",
-    "4. Locations/Tal'Dorei.md",
     "Pasted image 20240521100548.png",
-    "4. Locations",
-    "4. Locations.md",
-    "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
     "Lord Bartholomew Hargrave 1.png",
-    "Lord Bartholomew Hargrave.png",
-    "z_Templates/NewNPC.md",
-    "4. Locations/Regional Maps",
-    "3. Characters/Hurk Dingleback.md",
-    "3. Characters/Notos.md",
-    "3. Characters/3. Characters.md",
-    "Welcome.md",
-    "1. DM Screen",
-    "z_Templates"
+    "Lord Bartholomew Hargrave.png"
   ]
 }

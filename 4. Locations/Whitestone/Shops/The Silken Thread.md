@@ -1,0 +1,11 @@
+| Item/Service                      | Description                                       | Price (in gold) |
+|----------------------------------|---------------------------------------------------|-----------------|
+| Fine Silk Dress                  | Elegant and luxurious attire for special occasions. | 80              |
+| Tailoring Services                | Custom-made garments tailored to your measurements. | Varies          |
+| Wool Cloak                        | Warm and durable cloak for chilly nights.         | 30              |
+| Linen Shirts                      | Light and breathable shirts for everyday wear.     | 20              |
+| Embroidery Work                   | Intricate embroidery to embellish your clothing.   | Varies          |
+
+> As you step into The Silken Thread, the air is filled with the faint scent of lavender, mingling with the subtle fragrance of freshly woven fabrics. Soft, gentle light spills from ornate brass fixtures, casting a warm glow over the elegant displays of vibrant textiles and intricately embroidered garments. Bolts of silk, satin, and velvet line the walls, their rich colors and luxurious textures inviting to the touch. At the center of the room, a polished oak counter stands adorned with delicate lace trimmings and spools of shimmering thread, where the skilled seamstress Mariella Spindle awaits, her keen eyes assessing your every need with a discerning gaze.
+
+**Owner Description:** Mariella Spindle is a master tailor renowned for her impeccable craftsmanship and keen eye for design. With a passion for fabrics and a talent for creating exquisite garments, she has earned a reputation as the go-to expert for all things fashion-related in Whitestone. Mariella's shop, The Silken Thread, exudes an air of sophistication and elegance, reflecting her refined taste and dedication to her craft. With a warm smile and an attentive ear, she listens carefully to her customers' preferences, ensuring that each piece is tailored to perfection. Whether you're in need of a stunning gown for a grand ball or a cozy cloak for a journey through the wilderness, Mariella is committed to fulfilling your sartorial desires with style and grace.

@@ -1,0 +1,3 @@
+Kymal is where the players woke up without any memories. Here, they picked up a job from Quinn Glorybluff to exterminate some goblins from a nearby mine. After discovering the truth behind the mine, they went to confront Glorybluff, they found out he had fled town for Westruun.
+
+While in Kymal, they encountered the shop keeper Vincente Laurent. He tasked the party with scouting out some new locations for him to open up a new shop at, as well as advertise for him.

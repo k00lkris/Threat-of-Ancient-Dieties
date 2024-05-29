@@ -1,0 +1,5 @@
+**Description of Seraphina Grindle:**
+- **Appearance:** Seraphina is a small, energetic gnome with bright green eyes and curly, auburn hair often tied back with a colorful bandana. She wears a stained apron over her clothes, which are typically covered in various alchemical ingredients and residues.
+- **Personality:** Seraphina is cheerful and curious, always eager to learn new things and meet new people. She is incredibly knowledgeable about herbs, potions, and the fine art of tobacco blending. She loves to share her knowledge and often hosts small workshops in her shop.
+- **Background:** Seraphina studied alchemy in Emon before moving to Kymal to open her own shop. She developed a love for fine tobacco through her travels and decided to combine her two passions into The Old Pepper.
+- **Motivations:** Seraphina is driven by her love for creating unique and helpful concoctions, whether they are potions or custom tobacco blends. She is also passionate about helping adventurers by providing them with high-quality alchemical items.

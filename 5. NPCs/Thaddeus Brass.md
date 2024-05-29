@@ -1,0 +1,5 @@
+**Description of Thaddeus Brass:**
+- **Appearance:** Thaddeus is a robust man in his late forties, with a weather-beaten face, a thick mustache, and a mane of greying hair. He usually wears sturdy work clothes, a leather apron, and heavy boots, appropriate for the stable environment.
+- **Personality:** Thaddeus is warm-hearted, always ready with a smile and a helping hand. He is known for his fairness and dedication to his customers and animals. His jovial demeanor makes him well-liked among both the townsfolk and travelers.
+- **Background:** Thaddeus grew up around horses and has been involved in the trade since he was a child. After inheriting the family business, he expanded The Brass Carriage to offer a wider range of services and goods, making it a one-stop shop for all travel and animal-related needs.
+- **Motivations:** Thaddeus is passionate about ensuring the well-being of animals and providing quality service to his patrons. He takes great pride in the reputation of The Brass Carriage and works hard to maintain high standards.

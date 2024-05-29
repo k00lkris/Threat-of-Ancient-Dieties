@@ -1,0 +1,17 @@
+| Item/Service            | Description                                                                                               | Price Range (in gold) |
+|-------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------|
+| Ruby                     | A fiery red gemstone prized for its beauty and rarity.                                                    | 500 - 2,000           |
+| Sapphire                 | A deep blue gemstone associated with wisdom and royalty.                                                   | 400 - 1,800           |
+| Emerald                  | A vibrant green gemstone symbolizing rebirth and renewal.                                                  | 600 - 2,500           |
+| Diamond                  | A sparkling clear gemstone known for its brilliance and purity.                                             | 800 - 3,000           |
+| Amethyst                 | A regal purple gemstone believed to ward off negative energies.                                             | 300 - 1,200           |
+| Topaz                    | A golden yellow gemstone associated with the sun and vitality.                                              | 250 - 1,000           |
+| Opal                     | A mesmerizing gemstone with shifting colors resembling the aurora borealis.                                | 350 - 1,500           |
+| Gem Identification       | Identification and appraisal services for gemstones brought in by customers.                                | 50 - 200              |
+| Gemstone Setting         | Custom setting of gemstones into jewelry such as rings, necklaces, and earrings.                            | 100 - 500             |
+| Gemstone Polishing       | Professional polishing services to restore the luster and shine of gemstones.                                | 80 - 300              |
+| Gemstone Engraving       | Custom engraving services to personalize gemstone jewelry with names or symbols.                            | 120 - 400             |
+
+> As you step into The Gemstone Grotto, a dazzling array of colors greets your eyes. The shop is bathed in a warm, ambient glow, cast by lanterns reflecting off myriad gemstones displayed in pristine glass cases. The air is filled with a subtle, earthy aroma mixed with a hint of polish. Each display case is meticulously arranged, showcasing everything from raw crystals to expertly cut jewels that sparkle with an inner fire. Behind the counter, Rurik Gemcutter, a stout dwarf with a meticulously groomed beard and keen, appraising eyes, works diligently on a new piece, his fingers deftly maneuvering tools with the precision of a master artisan. He looks up as you enter, offering a nod of welcome, his expression both shrewd and welcoming.
+
+Rurik Gemcutter, the proprietor of The Gemstone Grotto, is a skilled and experienced gem cutter known for his meticulous craftsmanship and keen eye for quality. With a passion for rare and precious stones, Rurik takes pride in offering the finest selection of gems and providing expert services to his discerning clientele. His shop is adorned with exquisite displays of shimmering gemstones, creating an atmosphere of elegance and luxury. Rurik himself is a knowledgeable and affable individual, always ready to assist customers in finding the perfect gemstone for their needs or to share fascinating tales of the stones' origins and lore.
