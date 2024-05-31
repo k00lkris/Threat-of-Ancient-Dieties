@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
+                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
+                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
+                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md"
+                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md"
               }
             }
           },
@@ -190,10 +190,15 @@
   "active": "f710c71f9c48c75b",
   "lastOpenFiles": [
     "7. Main Quest/1. Arrival in Whitestone/1.5.a Hargraves Manor.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.4.b Hargraves Rumors.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.c Second Floor.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.b Ground Floor.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor",
     "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
     "8. Side Quests/Whitestone/Gossip.md",
     "8. Side Quests/Whitestone",
-    "7. Main Quest/1. Arrival in Whitestone/1.4.b Hargraves Rumors.md",
     "7. Main Quest/1. Arrival in Whitestone/1.4.a Hargraves' Schedule.md",
     "4. Locations/Whitestone/Places of Interest/The Sun Tree.md",
     "4. Locations/Whitestone/Shops/The Slayer's Cake.md",
@@ -213,10 +218,6 @@
     "4. Locations/Whitestone/Pubs and Inns/The Seafarer's Rest.md",
     "4. Locations/Whitestone/Shops/The Velvet Rose.md",
     "4. Locations/Whitestone/Shops/The Lucky Coin.md",
-    "4. Locations/Whitestone/Shops/The Serpent's Coil.md",
-    "4. Locations/Whitestone/Shops/The Bronze Shield.md",
-    "4. Locations/Whitestone/Shops/The Bright Lantern.md",
-    "4. Locations/Whitestone/Shops/The Enchanted Flute.md",
     "4. Locations/Whitestone/Pubs and Inns",
     "4. Locations/Whitestone/Shops",
     "4. Locations/Whitestone/Places of Interest",
@@ -224,7 +225,6 @@
     "5. NPCs/Relationships",
     "4. Locations/Zephyr's Haven",
     "5. NPCs/Whitestone",
-    "7. Main Quest/1. Arrival in Whitestone",
     "Lilly Meadowbrook.jpg",
     "Seraphis.jpg",
     "Vincente Laurent.jpg",
