@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
+                "file": "6. Session Notes/Tenth Session Notes.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
+                "file": "6. Session Notes/Tenth Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
+                "file": "6. Session Notes/Tenth Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md"
+                "file": "6. Session Notes/Tenth Session Notes.md"
               }
             }
           },
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,40 +184,42 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "f710c71f9c48c75b",
   "lastOpenFiles": [
-    "7. Main Quest/1. Arrival in Whitestone/1.5.a Hargraves Manor.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.4.b Hargraves Rumors.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.c Second Floor.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.b Ground Floor.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor",
-    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
-    "8. Side Quests/Whitestone/Gossip.md",
-    "8. Side Quests/Whitestone",
-    "7. Main Quest/1. Arrival in Whitestone/1.4.a Hargraves' Schedule.md",
-    "4. Locations/Whitestone/Places of Interest/The Sun Tree.md",
-    "4. Locations/Whitestone/Shops/The Slayer's Cake.md",
-    "4. Locations/Whitestone/Shops/List Of Shops.md",
-    "4. Locations/Whitestone/Places of Interest/House of the Lawbearer.md",
-    "4. Locations/Whitestone/Places of Interest/Whitestone Castle.md",
-    "4. Locations/Whitestone/Places of Interest/Tipsy Quorum.md",
-    "4. Locations/Whitestone/Places of Interest/Heart of Whitestone.md",
-    "4. Locations/Whitestone/Places of Interest/Slayer's Cake.md",
-    "4. Locations/Whitestone/Places of Interest/The Zenith.md",
-    "4. Locations/Whitestone/Places of Interest/The Ziggurat.md",
-    "4. Locations/Whitestone/Places of Interest/The Greyfield.md",
-    "4. Locations/Whitestone/Districts",
-    "4. Locations/Whitestone/Shops/The Traveler's Haven.md",
-    "4. Locations/Whitestone/Shops/The Howling Wolf.md",
-    "4. Locations/Whitestone/Shops/The Crystal Veil.md",
-    "4. Locations/Whitestone/Pubs and Inns/The Seafarer's Rest.md",
     "4. Locations/Whitestone/Shops/The Velvet Rose.md",
+    "6. Session Notes/Tenth Session Notes.md",
     "4. Locations/Whitestone/Shops/The Lucky Coin.md",
+    "4. Locations/Whitestone/Shops/The Emerald Apothecary.md",
+    "4. Locations/Whitestone/Shops/The Gemstone Grotto.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Seafarer's Rest.md",
+    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
+    "5. NPCs/Whitestone/Percival de Rolo.md",
+    "3. Characters/Letrixe Embel.md",
+    "3. Characters/Celestriel Noryra.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Golden Goose.md",
+    "3. Characters/Notos.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Silver Chalice.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Frosty Mug.md",
+    "4. Locations/Whitestone/Pubs and Inns/The Dancing Dragon.md",
+    "4. Locations/Whitestone/Shops/The Serpent's Coil.md",
+    "4. Locations/Whitestone/Shops/Windrider's Wares.md",
+    "4. Locations/Whitestone/Shops/The Whispering Tome.md",
+    "4. Locations/Whitestone/Shops/The Traveler's Haven.md",
+    "4. Locations/Whitestone/Shops/The Slayer's Cake.md",
+    "4. Locations/Whitestone/Shops/The Silken Thread.md",
+    "4. Locations/Whitestone/Shops/The Roaring Griffin.md",
+    "4. Locations/Whitestone/Shops/The Howling Wolf.md",
+    "4. Locations/Whitestone/Shops/The Gilded Cage.md",
+    "4. Locations/Whitestone/Shops/The Enchanted Flute.md",
+    "4. Locations/Whitestone/Shops/Davin's Emporium.md",
+    "Pasted image 20240521100548.png",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor",
+    "8. Side Quests/Whitestone",
+    "4. Locations/Whitestone/Districts",
     "4. Locations/Whitestone/Pubs and Inns",
     "4. Locations/Whitestone/Shops",
     "4. Locations/Whitestone/Places of Interest",
@@ -228,7 +230,6 @@
     "Lilly Meadowbrook.jpg",
     "Seraphis.jpg",
     "Vincente Laurent.jpg",
-    "Pasted image 20240521100548.png",
     "Lord Bartholomew Hargrave 1.png",
     "Lord Bartholomew Hargrave.png"
   ]

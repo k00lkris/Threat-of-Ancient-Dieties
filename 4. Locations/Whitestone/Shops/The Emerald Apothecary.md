@@ -1,3 +1,5 @@
+**Party Reputation**: 0
+
 ### Table of Items and Services
 
 | Item/Service                     | Description                                                                                     | Price (in gold) |

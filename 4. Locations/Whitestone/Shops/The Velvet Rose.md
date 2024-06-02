@@ -2,6 +2,8 @@
 
 **Owner: Cassandra Velvet**
 
+**Party Reputation**: 0
+
 #### Items and Services:
 
 | Item                             | Description                                                                  | Price (in gold) |

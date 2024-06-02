@@ -2,6 +2,8 @@
 
 **Owner: Marina Seabreeze**
 
+**Party Reputation**: 2
+
 #### Items and Services:
 
 | Item                             | Description                                                                   | Price (in gold) |

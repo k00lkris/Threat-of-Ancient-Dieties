@@ -115,7 +115,10 @@ Rumors might be overheard in town that lead the players to investigate further.
 **Event:**
 The party must find a way to sneak into the residence or persuade the guards to let them in. Inside, they discover Hargrave’s study filled with books on ancient cults and hidden compartments containing incriminating evidence.
 
-[[1.5.a Hargraves Manor]]
+[[1.5.a Exterior]]
+[[1.5.b Ground Floor]]
+[[1.5.c Second Floor]]
+[[1.5.d Basement]]
 
 **NPCs:**
 - **[[Seraphine, Head Maid]]:** Loyal to Hargrave but might reveal secrets if persuaded.
