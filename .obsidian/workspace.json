@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "f710c71f9c48c75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Session Notes/Tenth Session Notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Session Notes/Tenth Session Notes.md",
+                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Session Notes/Tenth Session Notes.md",
+                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Session Notes/Tenth Session Notes.md"
+                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md"
               }
             }
           },
@@ -168,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,34 +175,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f710c71f9c48c75b",
+  "active": "39e89d05e6e6e93c",
   "lastOpenFiles": [
-    "4. Locations/Whitestone/Shops/The Velvet Rose.md",
+    "Untitled.canvas",
+    "3. Characters/Magical Items/Amethyst Greatsword.md",
+    "3. Characters/Magical Items/Amethyst Crafting Gloves.md",
+    "3. Characters/Magical Items/Amethyst Bow.md",
+    "3. Characters/Hurk Dingleback.md",
+    "3. Characters/Magical Items",
+    "3. Characters/Heijla Valkyr.md",
+    "3. Characters/Celestriel Noryra.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.e Hargraves Evidence.md",
+    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
+    "5. NPCs/Enemies/Tillie Trefusis.md",
+    "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
+    "3. Characters/Letrixe Embel.md",
+    "7. Main Quest/Annunaki Resurrection Ritual.md",
+    "3. Characters/z_Character Backstory.md",
+    "3. Characters/Notos.md",
+    "3. Characters/Untitled.md",
+    "5. NPCs/Relationships/Evelyn and Heijla.md",
     "6. Session Notes/Tenth Session Notes.md",
+    "4. Locations/Whitestone/Shops/The Velvet Rose.md",
     "4. Locations/Whitestone/Shops/The Lucky Coin.md",
     "4. Locations/Whitestone/Shops/The Emerald Apothecary.md",
     "4. Locations/Whitestone/Shops/The Gemstone Grotto.md",
     "4. Locations/Whitestone/Pubs and Inns/The Seafarer's Rest.md",
-    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
-    "5. NPCs/Whitestone/Percival de Rolo.md",
-    "3. Characters/Letrixe Embel.md",
-    "3. Characters/Celestriel Noryra.md",
+    "5. NPCs/Allies/Percival de Rolo.md",
     "4. Locations/Whitestone/Pubs and Inns/The Golden Goose.md",
-    "3. Characters/Notos.md",
     "4. Locations/Whitestone/Pubs and Inns/The Silver Chalice.md",
-    "4. Locations/Whitestone/Pubs and Inns/The Frosty Mug.md",
-    "4. Locations/Whitestone/Pubs and Inns/The Dancing Dragon.md",
-    "4. Locations/Whitestone/Shops/The Serpent's Coil.md",
-    "4. Locations/Whitestone/Shops/Windrider's Wares.md",
-    "4. Locations/Whitestone/Shops/The Whispering Tome.md",
-    "4. Locations/Whitestone/Shops/The Traveler's Haven.md",
-    "4. Locations/Whitestone/Shops/The Slayer's Cake.md",
-    "4. Locations/Whitestone/Shops/The Silken Thread.md",
-    "4. Locations/Whitestone/Shops/The Roaring Griffin.md",
-    "4. Locations/Whitestone/Shops/The Howling Wolf.md",
-    "4. Locations/Whitestone/Shops/The Gilded Cage.md",
-    "4. Locations/Whitestone/Shops/The Enchanted Flute.md",
-    "4. Locations/Whitestone/Shops/Davin's Emporium.md",
     "Pasted image 20240521100548.png",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor",
     "8. Side Quests/Whitestone",
@@ -226,7 +214,6 @@
     "4. Locations/Whitestone",
     "5. NPCs/Relationships",
     "4. Locations/Zephyr's Haven",
-    "5. NPCs/Whitestone",
     "Lilly Meadowbrook.jpg",
     "Seraphis.jpg",
     "Vincente Laurent.jpg",
