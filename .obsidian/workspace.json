@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9e5dd56dad8914ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Characters/Notos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
+                "file": "3. Characters/Notos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
+                "file": "3. Characters/Notos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md"
+                "file": "3. Characters/Notos.md"
               }
             }
           },
@@ -175,8 +188,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "39e89d05e6e6e93c",
+  "active": "9e5dd56dad8914ab",
   "lastOpenFiles": [
+    "Lilly Meadowbrook.jpg",
+    "3. Characters/Notos.md",
+    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
+    "5. NPCs/Whitestone/Davin, the Merchant.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
+    "6. Organizations/The Clasp.md",
     "Untitled.canvas",
     "3. Characters/Magical Items/Amethyst Greatsword.md",
     "3. Characters/Magical Items/Amethyst Crafting Gloves.md",
@@ -186,13 +205,11 @@
     "3. Characters/Heijla Valkyr.md",
     "3. Characters/Celestriel Noryra.md",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.e Hargraves Evidence.md",
-    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
     "5. NPCs/Enemies/Tillie Trefusis.md",
     "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
     "3. Characters/Letrixe Embel.md",
     "7. Main Quest/Annunaki Resurrection Ritual.md",
     "3. Characters/z_Character Backstory.md",
-    "3. Characters/Notos.md",
     "3. Characters/Untitled.md",
     "5. NPCs/Relationships/Evelyn and Heijla.md",
     "6. Session Notes/Tenth Session Notes.md",
@@ -201,9 +218,6 @@
     "4. Locations/Whitestone/Shops/The Emerald Apothecary.md",
     "4. Locations/Whitestone/Shops/The Gemstone Grotto.md",
     "4. Locations/Whitestone/Pubs and Inns/The Seafarer's Rest.md",
-    "5. NPCs/Allies/Percival de Rolo.md",
-    "4. Locations/Whitestone/Pubs and Inns/The Golden Goose.md",
-    "4. Locations/Whitestone/Pubs and Inns/The Silver Chalice.md",
     "Pasted image 20240521100548.png",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor",
     "8. Side Quests/Whitestone",
@@ -214,7 +228,6 @@
     "4. Locations/Whitestone",
     "5. NPCs/Relationships",
     "4. Locations/Zephyr's Haven",
-    "Lilly Meadowbrook.jpg",
     "Seraphis.jpg",
     "Vincente Laurent.jpg",
     "Lord Bartholomew Hargrave 1.png",
