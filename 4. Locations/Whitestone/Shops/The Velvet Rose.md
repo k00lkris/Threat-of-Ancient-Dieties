@@ -1,6 +1,6 @@
 *Specializes in Fine Jewelry*
 
-**Owner: Cassandra Velvet**
+**Owner: [[Cassandra Velvet]]**
 
 **Party Reputation**: 0
 
@@ -32,5 +32,5 @@
 > As you step into The Velvet Rose, you're greeted by the soft glow of crystal chandeliers and the sparkle of precious gems. Velvet-lined display cases showcase an exquisite array of rings, necklaces, and earrings, each piece more dazzling than the last. The air is filled with the scent of lavender and roses, adding to the atmosphere of elegance and refinement.
 
 #### Owner's Description:
-Cassandra Velvet, the proprietor of The Velvet Rose, is a woman of impeccable taste and sophistication. With her keen eye for beauty and her extensive knowledge of gemstones, she curates a collection of jewelry that captivates all who enter her shop. Cassandra is known for her gracious demeanor and her talent for helping customers find the perfect piece to adorn themselves or their loved ones.
+[[Cassandra Velvet]], the proprietor of The Velvet Rose, is a woman of impeccable taste and sophistication. With her keen eye for beauty and her extensive knowledge of gemstones, she curates a collection of jewelry that captivates all who enter her shop. Cassandra is known for her gracious demeanor and her talent for helping customers find the perfect piece to adorn themselves or their loved ones.
 

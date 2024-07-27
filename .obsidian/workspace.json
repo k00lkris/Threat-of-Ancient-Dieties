@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39e89d05e6e6e93c",
+            "id": "9e5dd56dad8914ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
+                "file": "7. Main Quest/Annunaki Resurrection Ritual.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "9e5dd56dad8914ab",
+            "id": "94a406ee0834b0b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "3. Characters/Notos.md",
-                "mode": "preview",
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Characters/Notos.md",
+                "file": "7. Main Quest/Annunaki Resurrection Ritual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Characters/Notos.md",
+                "file": "7. Main Quest/Annunaki Resurrection Ritual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Characters/Notos.md"
+                "file": "7. Main Quest/Annunaki Resurrection Ritual.md"
               }
             }
           },
@@ -188,46 +186,47 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9e5dd56dad8914ab",
+  "active": "94a406ee0834b0b5",
   "lastOpenFiles": [
-    "Lilly Meadowbrook.jpg",
-    "3. Characters/Notos.md",
-    "7. Main Quest/1. Arrival in Whitestone/Arrival in Whitestone Summary.md",
-    "5. NPCs/Whitestone/Davin, the Merchant.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
-    "6. Organizations/The Clasp.md",
-    "Untitled.canvas",
-    "3. Characters/Magical Items/Amethyst Greatsword.md",
-    "3. Characters/Magical Items/Amethyst Crafting Gloves.md",
-    "3. Characters/Magical Items/Amethyst Bow.md",
-    "3. Characters/Hurk Dingleback.md",
-    "3. Characters/Magical Items",
-    "3. Characters/Heijla Valkyr.md",
-    "3. Characters/Celestriel Noryra.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.e Hargraves Evidence.md",
-    "5. NPCs/Enemies/Tillie Trefusis.md",
     "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
-    "3. Characters/Letrixe Embel.md",
     "7. Main Quest/Annunaki Resurrection Ritual.md",
-    "3. Characters/z_Character Backstory.md",
-    "3. Characters/Untitled.md",
-    "5. NPCs/Relationships/Evelyn and Heijla.md",
+    "6. Organizations/The Cult of the Annunaki.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.4.a Hargraves' Schedule.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.999 XP Breakdown Whitesone.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.6 Hargraves Encounter.md",
     "6. Session Notes/Tenth Session Notes.md",
+    "5. NPCs/Relationships/Evelyn and Heijla.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.0 Arrival in Whitestone Summary.md",
     "4. Locations/Whitestone/Shops/The Velvet Rose.md",
-    "4. Locations/Whitestone/Shops/The Lucky Coin.md",
-    "4. Locations/Whitestone/Shops/The Emerald Apothecary.md",
-    "4. Locations/Whitestone/Shops/The Gemstone Grotto.md",
-    "4. Locations/Whitestone/Pubs and Inns/The Seafarer's Rest.md",
+    "5. NPCs/Whitestone/Cassandra Velvet.md",
+    "1. DM Screen/Session Prep.md",
+    "1. DM Screen/Dashboard.md",
+    "6. Session Notes/Eleventh Session Notes.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.f Random Encounters.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.b Ground Floor.md",
+    "7. Main Quest/2.  Heart of a Titan/Heart of a Titan Summary.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.c Second Floor.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.e Hargraves Evidence.md",
+    "7. Main Quest/Third Act Idea.md",
+    "7. Main Quest/7. Soul Gem/Summary.md",
+    "7. Main Quest/6. Blood of a Black Dragon/Summary.md",
+    "7. Main Quest/5. Ancient Relic of the Annunaki/Summary.md",
+    "7. Main Quest/4. Eldritch Crystal/Summary.md",
+    "7. Main Quest/7. Soul Gem",
+    "7. Main Quest/6. Blood of a Black Dragon",
+    "7. Main Quest/5. Ancient Relic of the Annunaki",
+    "7. Main Quest/4. Eldritch Crystal",
+    "7. Main Quest/3. Celestial Tear",
+    "7. Main Quest/2.  Heart of a Titan",
+    "5. NPCs/Custom Creatures",
+    "Lilly Meadowbrook.jpg",
+    "Untitled.canvas",
+    "3. Characters/Magical Items",
     "Pasted image 20240521100548.png",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor",
     "8. Side Quests/Whitestone",
-    "4. Locations/Whitestone/Districts",
-    "4. Locations/Whitestone/Pubs and Inns",
-    "4. Locations/Whitestone/Shops",
-    "4. Locations/Whitestone/Places of Interest",
-    "4. Locations/Whitestone",
-    "5. NPCs/Relationships",
-    "4. Locations/Zephyr's Haven",
     "Seraphis.jpg",
     "Vincente Laurent.jpg",
     "Lord Bartholomew Hargrave 1.png",

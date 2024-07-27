@@ -19,7 +19,7 @@ The party rejoined and went to [[The Gemstone Grotto]] and tried to haggle their
 
 They went to [[The Lucky Coin]] to try and sell Tasha's Mirror. After failed haggling attempts, Felix decided to look into the mirror, where he was stricken with temporary insanity where he could only speak in babbel until [[Letrixe Embel]] hit him with a Lesser Restoration spell. Felix told them to get the mirror out of his shop.
 
-Finally, the party went to [[The Velvet Rose]]. They first tried to sell the amulet they picked up off the bugbear they encountered in the mines from the first session. Cassandra Velvet recognized the amulet, being a secret cultist herself, and told her that she wouldn't deal with the artifact, but referred her to [[Lord Bartholomew Hargraves]] to sell it.
+Finally, the party went to [[The Velvet Rose]]. They first tried to sell the amulet they picked up off the bugbear they encountered in the mines from the first session. [[Cassandra Velvet]] recognized the amulet, being a secret cultist herself, and told her that she wouldn't deal with the artifact, but referred her to [[Lord Bartholomew Hargraves]] to sell it.
 
 Celestiel then tried to haggle the gems they failed to sell at [[The Gemstone Grotto]]. Though negotiations were successful, with Cassandra offering 750 gp for the gems, Hurk threw in an amethyst shard he had picked up while searching for the Celestial Amethyst Dragon. Cassandra saw the significance of the crystal and agreed to pay them 825 gp for the lot of them.
 
@@ -36,12 +36,12 @@ After recanting their journey so far to Percy and Vex'halia, they understood the
 The players mentioned requiring the hart of a titan to Percy which sparked his attention. Hargraves, through his covert listening devices, also learned about the heart of a titan.
 
 ## Behind the Scenes.
-Cassandra Velvet is sympathetic to [[Lord Bartholomew Hargraves]] mission to resurrect the Annunaki. She is a secret cultist and is in possession of a similar amulet herself. After encountering the players, she rushed off to Hargraves to inform him about the players and their possession of the amulet.
+[[Cassandra Velvet]] is sympathetic to [[Lord Bartholomew Hargraves]] mission to resurrect the Annunaki. She is a secret cultist and is in possession of a similar amulet herself. After encountering the players, she rushed off to Hargraves to inform him about the players and their possession of the amulet.
 
 This information startled Hargraves and expedited his plans. Fearing that the players would expose him to the de Rolos, he planted magical listening devices in [[Whitestone Castle]] that he could use to eavesdrop on any conversations the party might have. He then met with some of his cultists present in Whitestone to begin packing up their operations and finding a more secret location to continue their efforts.
 
 ### Consequences
-- Cassandra Velvet will begin packing up her shop and evacuating Whitestone.
+- [[Cassandra Velvet]] will begin packing up her shop and evacuating Whitestone.
 - [[Lord Bartholomew Hargraves]] is aware of the players presence and will begin to plan his own escape.
 - If the players wait too long to search for clues at Hargraves manor, they will be attacked by cultist assassins.
 - Guards at Hargraves estate will be more hostile to the players and, if discovered trespassing, will attack on sight.
