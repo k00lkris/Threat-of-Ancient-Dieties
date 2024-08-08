@@ -23,9 +23,11 @@
             "id": "94a406ee0834b0b5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Main Quest/Annunaki Resurrection Ritual.md",
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Main Quest/Annunaki Resurrection Ritual.md",
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Main Quest/Annunaki Resurrection Ritual.md"
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md"
               }
             }
           },
@@ -188,32 +190,32 @@
   },
   "active": "94a406ee0834b0b5",
   "lastOpenFiles": [
+    "4. Locations/Whitestone/Shops/Davin's Emporium.md",
+    "4. Locations/Whitestone/Shops/The Emerald Apothecary.md",
+    "4. Locations/Whitestone/Shops/The Bronze Shield.md",
+    "4. Locations/Whitestone/Shops/The Golden Anvil.md",
+    "4. Locations/Whitestone/Shops/The Gilded Cage.md",
+    "3. Characters/Magical Items/Amethyst Crafting Gloves.md",
+    "3. Characters/Magical Items/Amethyst Greatsword.md",
+    "3. Characters/Magical Items/Amethyst Bow.md",
+    "6. Session Notes/Tenth Session Notes.md",
+    "8. Side Quests/Whitestone/Gossip.md",
+    "5. NPCs/Whitestone/Cassandra Velvet.md",
+    "5. NPCs/Relationships/Evelyn and Heijla.md",
     "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
     "7. Main Quest/Annunaki Resurrection Ritual.md",
     "6. Organizations/The Cult of the Annunaki.md",
     "7. Main Quest/1. Arrival in Whitestone/1.4.a Hargraves' Schedule.md",
     "7. Main Quest/1. Arrival in Whitestone/1.999 XP Breakdown Whitesone.md",
     "7. Main Quest/1. Arrival in Whitestone/1.6 Hargraves Encounter.md",
-    "6. Session Notes/Tenth Session Notes.md",
-    "5. NPCs/Relationships/Evelyn and Heijla.md",
     "7. Main Quest/1. Arrival in Whitestone/1.0 Arrival in Whitestone Summary.md",
     "4. Locations/Whitestone/Shops/The Velvet Rose.md",
-    "5. NPCs/Whitestone/Cassandra Velvet.md",
     "1. DM Screen/Session Prep.md",
     "1. DM Screen/Dashboard.md",
     "6. Session Notes/Eleventh Session Notes.md",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.f Random Encounters.md",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.b Ground Floor.md",
-    "7. Main Quest/2.  Heart of a Titan/Heart of a Titan Summary.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.c Second Floor.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.d Basement.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.e Hargraves Evidence.md",
-    "7. Main Quest/Third Act Idea.md",
-    "7. Main Quest/7. Soul Gem/Summary.md",
-    "7. Main Quest/6. Blood of a Black Dragon/Summary.md",
-    "7. Main Quest/5. Ancient Relic of the Annunaki/Summary.md",
-    "7. Main Quest/4. Eldritch Crystal/Summary.md",
     "7. Main Quest/7. Soul Gem",
     "7. Main Quest/6. Blood of a Black Dragon",
     "7. Main Quest/5. Ancient Relic of the Annunaki",
