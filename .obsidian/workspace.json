@@ -23,26 +23,16 @@
             "id": "94a406ee0834b0b5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "d17740be4b8212c2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Random Encounters/Obsidian Veil/Obsidian Veil - Vincinte Laurent.md",
-                "mode": "source",
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Random Encounters/Obsidian Veil/Obsidian Veil - Vincinte Laurent.md",
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Random Encounters/Obsidian Veil/Obsidian Veil - Vincinte Laurent.md",
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Random Encounters/Obsidian Veil/Obsidian Veil - Vincinte Laurent.md"
+                "file": "4. Locations/Whitestone/Shops/List Of Shops.md"
               }
             }
           },
@@ -198,35 +188,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6408feb2f261390e",
+  "active": "94a406ee0834b0b5",
   "lastOpenFiles": [
-    "9. Random Encounters/Lost Child in the Woods.md",
-    "9. Random Encounters/Obsidian Veil/Obsidian Veil - Vincinte Laurent.md",
-    "9. Random Encounters/Obsidian Veil",
-    "5. NPCs/Kymal/Vincinte Laurent.md",
-    "3. Characters/z_Character Backstory.md",
-    "1. DM Screen/Session Prep.md",
-    "1. DM Screen/Reputation System.md",
-    "1. DM Screen/Dashboard.md",
-    "8. Side Quests/Whitestone/7.2.a Blood on the Stones Encounter.md",
-    "8. Side Quests/Whitestone/7.2 Blood on the Stones.md",
-    "5. NPCs/Allies/Evelyn Windrider.md",
+    "4. Locations/Whitestone/Shops/Davin's Emporium.md",
+    "4. Locations/Whitestone/Shops/The Emerald Apothecary.md",
+    "4. Locations/Whitestone/Shops/The Bronze Shield.md",
+    "4. Locations/Whitestone/Shops/The Golden Anvil.md",
+    "4. Locations/Whitestone/Shops/The Gilded Cage.md",
+    "3. Characters/Magical Items/Amethyst Crafting Gloves.md",
+    "3. Characters/Magical Items/Amethyst Greatsword.md",
+    "3. Characters/Magical Items/Amethyst Bow.md",
+    "6. Session Notes/Tenth Session Notes.md",
+    "8. Side Quests/Whitestone/Gossip.md",
+    "5. NPCs/Whitestone/Cassandra Velvet.md",
     "5. NPCs/Relationships/Evelyn and Heijla.md",
-    "7. Monsters/Harpy Matriarch.md",
-    "8. Side Quests/Whitestone/7.1 Harpy Nest near Whitestone.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.i Research Notes.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.g Hargraves Loot.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.b Ground Floor.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.h Ledger of Transactions.md",
-    "5. NPCs/Custom Creatures/Cultist Guard.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.6 Hargraves Encounter.md",
-    "3. Characters/Celestriel Noryra.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.0 Arrival in Whitestone Summary.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.1 Entering Whitestone.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.4.a Hargraves' Schedule.md",
-    "7. Main Quest/1. Arrival in Whitestone/1.4.b Hargraves Rumors.md",
     "5. NPCs/Enemies/Lord Bartholomew Hargraves.md",
+    "7. Main Quest/Annunaki Resurrection Ritual.md",
+    "6. Organizations/The Cult of the Annunaki.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.4.a Hargraves' Schedule.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.999 XP Breakdown Whitesone.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.6 Hargraves Encounter.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.0 Arrival in Whitestone Summary.md",
+    "4. Locations/Whitestone/Shops/The Velvet Rose.md",
+    "1. DM Screen/Session Prep.md",
+    "1. DM Screen/Dashboard.md",
+    "6. Session Notes/Eleventh Session Notes.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.a Exterior.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.f Random Encounters.md",
+    "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor/1.5.b Ground Floor.md",
     "7. Main Quest/7. Soul Gem",
     "7. Main Quest/6. Blood of a Black Dragon",
     "7. Main Quest/5. Ancient Relic of the Annunaki",
@@ -239,6 +228,7 @@
     "3. Characters/Magical Items",
     "Pasted image 20240521100548.png",
     "7. Main Quest/1. Arrival in Whitestone/1.5 Hargraves' Manor",
+    "8. Side Quests/Whitestone",
     "Seraphis.jpg",
     "Vincente Laurent.jpg",
     "Lord Bartholomew Hargrave 1.png",
