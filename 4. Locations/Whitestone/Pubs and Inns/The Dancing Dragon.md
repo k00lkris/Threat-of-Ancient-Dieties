@@ -1,14 +1,14 @@
-| Item/Service         | Description                                                                                           | Price Range (in gold) |
-|----------------------|-------------------------------------------------------------------------------------------------------|-----------------------|
-| Ale                  | A hearty and flavorful brew, perfect for relaxing after a long day of travel or adventuring.          | 1 - 3                 |
-| Mead                 | A sweet and intoxicating honey wine, popular among patrons for its rich flavor and warming effect.    | 2 - 5                 |
-| Wine                 | A selection of fine wines from vineyards across Tal'Dorei, ranging from crisp whites to robust reds.  | 3 - 8                 |
-| Roast Chicken        | A succulent roast chicken served with savory herbs and spices, accompanied by roasted vegetables.      | 5 - 10                |
-| Beef Stew            | A hearty stew made with tender chunks of beef, root vegetables, and aromatic herbs, served with bread.| 4 - 9                 |
-| Vegetarian Shepherd's Pie | A comforting dish made with a savory vegetable filling topped with creamy mashed potatoes.          | 4 - 8                 |
-| The Dragon's Nest    | A private room at the inn furnished with a comfortable bed, fresh linens, and a cozy fireplace.       | 10 - 20               |
-| Bardic Entertainment | Live performances by talented bards, musicians, and storytellers, providing entertainment for patrons.| 2 - 10                |
-| Hearthside Hearthfire| Gather around the tavern's hearthfire for warmth and camaraderie, sharing tales and toasting to new adventures. | 1 - 3         |
+| Item/Service              | Description                                                                                                     | Price Range (in gold) |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Ale                       | A hearty and flavorful brew, perfect for relaxing after a long day of travel or adventuring.                    | 1 - 3                 |
+| Mead                      | A sweet and intoxicating honey wine, popular among patrons for its rich flavor and warming effect.              | 2 - 5                 |
+| Wine                      | A selection of fine wines from vineyards across Tal'Dorei, ranging from crisp whites to robust reds.            | 3 - 8                 |
+| Roast Chicken             | A succulent roast chicken served with savory herbs and spices, accompanied by roasted vegetables.               | 5 - 10                |
+| Beef Stew                 | A hearty stew made with tender chunks of beef, root vegetables, and aromatic herbs, served with bread.          | 4 - 9                 |
+| Vegetarian Shepherd's Pie | A comforting dish made with a savory vegetable filling topped with creamy mashed potatoes.                      | 4 - 8                 |
+| The Dragon's Nest         | A private room at the inn furnished with a comfortable bed, fresh linens, and a cozy fireplace.                 | 10 - 20               |
+| Bardic Entertainment      | Live performances by talented bards, musicians, and storytellers, providing entertainment for patrons.          | 2 - 10                |
+| Hearthside Hearthfire     | Gather around the tavern's hearthfire for warmth and camaraderie, sharing tales and toasting to new adventures. | 1 - 3                 |
 
 Room Cost: 5 - 15 gold pieces per night, depending on the size and comfort level of the accommodations.
 
