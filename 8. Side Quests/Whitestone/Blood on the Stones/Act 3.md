@@ -13,7 +13,7 @@ The players have gathered their clues and decided to watch over the cemetery for
 **Read-Aloud Text:**
 
 >_The Greyfield Cemetery is eerily silent as the night deepens. Gravestones cast long shadows in the pale moonlight, and the only sounds are the distant rustling of leaves and the soft whistle of the wind. The chill in the air seems to sink deeper into your bones as you take up positions near the mausoleums and gravestones, watching and waiting for any sign of movement._
-
+>
 _Time drags on, and the stillness becomes almost unbearable. Just when you start to doubt whether anything will happen tonight, you notice something. Shadows moving—not just the shifting of the moonlight—but real, dark figures slipping silently between the gravestones._
 
 ---

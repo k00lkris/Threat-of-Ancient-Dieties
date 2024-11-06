@@ -1,0 +1,23 @@
+### **Session Recap: Cinematic and Dynamic**
+
+The dawn’s light barely kissed the horizon as **Captain Soren** caught up to the party, his boots pounding against the cobblestones, desperation in his eyes. "Please!" he pleaded, breathless. "The blood... it’s appearing again, on the graves. Whitestone needs your help." The promise of a handsome reward and assistance on their journey to Turst Fields was the only thing that softened the party’s reluctance. **Hurk**, ever the skeptic, grumbled, "Not our problem," but after some deliberation, they agreed to investigate.
+
+Escorted to the **Greyfields**, the atmosphere was thick with unease. Gravestones and mausoleums stood in eerie silence, shadows cast long in the dim light. The blood splatter—unnatural in its placement—was thrown, not shed from a wound. As **Notos** examined the stains, the faint traces of celestial and fiendish blood clung to the stone. The **Windsail Mausoleum** caught their attention, locked but suspicious. Hurk, always one for brute force, attempted to batter down the door. Something about the Raven Queen’s connection to the blood hinted at a deeper ritual.
+
+Their investigation led them to the **Temple of the Raven Queen**, a solemn place dedicated to the goddess of fate and death. **Rosalind Hallow**, High Priestess, was forthright. The Raven Queen’s followers did use blood in their rites, but nothing sinister. Still, Hurk and **Notos** were suspicious. Hurk, in a moment of misguided hunger, even drank from the temple’s ceremonial blood, thinking it was raspberry jam.
+
+Suspicion turned to **Evelyn Windrider**, who reluctantly admitted to performing rites in the Greyfields. Her denials were fervent, but the party wasn't convinced. Hurk, distrustful of her and her faith, threw the word “cult” around like an accusation. Evelyn, hesitant but cooperative, directed them to **Old Man Mathis**, a conspiracy-spouting hermit, and **Elizabeth Thorne**, the Greyfield’s elderly groundskeeper.
+
+**Old Man Mathis** did not disappoint. Erratic and paranoid, he ranted about shadows and pale figures haunting the cemetery, claiming the graves were disturbed by ghostly forces. Even **Letrexie’s** divine magic couldn't restore his sanity. The party moved on to **Elizabeth Thorne**, who dismissed the supernatural in favor of something more mundane—a gang of ruffians, she assumed. Her fear, lingering from Whitestone’s bloody past, kept her from investigating further. "I survived the Blackwoods," she said, her voice trembling. "I’m not looking for more trouble."
+
+That night, the party set a **stakeout** in the Greyfields, watching the darkness. Hours passed until they saw them—**blood ghosts**, phantoms drenched in crimson, flicking their gruesome offerings onto the gravestones. The air chilled as the party sprang into action, clashing with the spectral beings. Three of the ghosts fell, their eerie wails piercing the night, but one retreated into the **Windsail Mausoleum**, drawing them deeper into the mystery.
+
+Within the mausoleum, they found it—a **secret door** hidden by a bloodstain, leading down into the **underground tomb**. The air was thick with the scent of death and dark magic as they crept through the eerie chambers. In a small office, Hurk, always the foolhardy one, attempted to read a book on **Vecna**—but his illiteracy spared him from the curse that befell **Notos**, who suffered the debilitating effects of exhaustion from the cursed text.
+
+Deeper they ventured, through bloodstained grates and darkened halls. **Hurk** again, in his brash nature, licked a grate slick with blood, summoning a **wraith** and its spectral servants. The altar bearing the **symbols of Vecna** loomed ominously, but the party pressed on, leaving the dark god’s influence unchallenged... for now.
+
+Their final confrontation came swiftly, as they found **Vornelith Blackthorn**, the necromancer behind the blood rituals, in the deepest chamber of the tomb. The battle was fierce and short-lived, as Notos, the party's silent assassin, struck true, bringing Vornelith to his knees. The necromancer lashed out, desperate, but **Hurk**, ever the brute, drove his greatsword through Vornelith's chest. The necromancer's eyes widened in disbelief, his last words a stunned whisper: "Impossible..."
+
+With a final, savage blow, Hurk severed the necromancer’s head from his body. **Notos**, watching the life fade from Vornelith’s eyes, spat out a final, bitter declaration: "That's for disgracing the Raven Queen."
+
+As Vornelith fell, the remaining blood ghosts vanished, their dark purpose undone. The tomb fell silent, its dark echoes fading into stillness. Victory was theirs, but questions lingered...
