@@ -9,8 +9,8 @@
   "showAdvanced": false,
   "version": {
     "major": 4,
-    "minor": 4,
-    "patch": 2
+    "minor": 10,
+    "patch": 3
   },
   "paths": [
     "/"
