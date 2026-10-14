@@ -124,11 +124,13 @@ These details are intended to make his departure believable to the remaining com
 
 During the party's earlier encounter with the cursed book in Vornelith Blackthorn's tomb, Hurk demonstrated an inability to read.
 
-If the party recognizes that Hurk may also be unable to write, the handwritten letter becomes immediately suspicious.
+**Player-memory clue — no roll required:** If the players recall Hurk's inability to read in the crypt, acknowledge that a polished handwritten letter attributed to him is suspicious. Do not require an Investigation check for remembering something their characters witnessed.
 
-Do not require a difficult ability check for players who independently remember and identify this inconsistency.
+**Suspicion is not proof:** Being unable to read does not conclusively establish that Hurk cannot write or that he did not dictate the letter. If questioned, the concierge can truthfully say they never witnessed Hurk writing or dictating either letter. The party may reasonably suspect Heijla or a third party transcribed Hurk's words; that possibility alone does not confirm or disprove the letter.
 
-The Myriad may claim that Hurk dictated the letter to someone else, but this explanation should not automatically resolve the party's suspicions.
+**Master forger's blind spot:** The Myriad gathered accurate details about Hurk's search for the Salty Dogs and the *Crimson Abyss*, but its forger did not account for his literacy. This is a flaw in the *story* behind the document, not an obvious flaw in penmanship. DC 25 Investigation still applies to proving a professional forgery through handwriting analysis.
+
+**At the table:** If a player says, "Wait, Hurk can't read!", confirm the remembered detail and ask what the character wants to examine or whom they want to question. Let that deduction open paths of investigation rather than automatically revealing the entire abduction.
 
 ---
 
@@ -209,6 +211,20 @@ It does not automatically identify the Myriad as the forger's employer.
 > Nothing immediately suggests that the letters are anything other than genuine farewell messages.
 
 **DM Note:** A failed check does not establish authenticity. It only means the character cannot identify evidence of forgery.
+
+### Hurk's Illiteracy — Roleplay and Deduction
+
+If a player independently remembers that Hurk could not read Vornelith's cursed book, give the character that recollection **without a roll**. The observation makes Hurk's handwritten letter questionable, but it does not answer whether he dictated it to Heijla, to an inn employee, or to someone else.
+
+- **Ask whether Heijla wrote Hurk's letter:** DC 15 Intelligence (Investigation) reveals the letters appear to be in **different hands**. This does not rule out another person writing either letter.
+- **Question the concierge:** The concierge truthfully says they did **not witness either letter being written or dictated**. They only saw the apparent departure.
+- **Compare authentic samples:** Use the DC 23 check above if the characters have genuine writing samples; do not invent samples merely to force this path.
+- **Inspect penmanship for fabrication:** The DC 25 check above remains the way to conclusively identify a professional forgery through physical examination.
+- **Try an alternative theory:** If players suggest Hurk could have dictated the words, acknowledge that this is possible. Let them seek evidence rather than dismissing the theory.
+
+**DM principle:** A perceptive player can identify a contradiction without rolling. A contradiction is an investigative lead—not automatic proof of kidnapping, the Myriad's involvement, or the missing companions' fate.
+
+---
 
 ### Additional Investigation Methods
 
