@@ -88,7 +88,7 @@ function showParts(){
   return;
  }
  chosenLabel.style.display="";
- chosenLabel.prependText("Harvest target: ");
+ chosenLabel.createEl("span",{text:"Harvest target: "});
  const table=partList.createEl("table");
  const hdr=table.createEl("tr");
  ["Part","Estimated total available","PDF page"].forEach(h=>hdr.createEl("th",{text:h}));
