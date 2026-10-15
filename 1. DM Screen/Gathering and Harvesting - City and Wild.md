@@ -11,6 +11,11 @@ source: "City and Wild v4.1, Chapter 7 pp. 70–86; Appendix B pp. 121–129"
 >
 > **These are separate workflows in the book.** Do not treat Appendix B as a random drop list: it specifies *possible parts and estimated totals* for each creature, not guaranteed loot.
 
+## Appendix B creature parts
+
+> [!important] Creature-specific loot list
+> Open [[Appendix B - Parts by Creature]] to search the creature name and see **each harvestable part, estimated maximum units, and source page**. The Appendix B lookup is supplied as a separate Obsidian Markdown file for import into this DM Screen folder.
+
 ## Slain Creature — Interactive Harvesting
 
 ```dataviewjs
