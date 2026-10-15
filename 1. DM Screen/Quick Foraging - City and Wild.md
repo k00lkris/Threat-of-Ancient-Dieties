@@ -13,6 +13,100 @@ rules: "House rule — Fast Foraging"
 > **Notos asks to forage → Nature check → d100 → ingredient + quantity → move on.**
 > This page adapts the **published plant discovery tables** in *City and Wild v4.1*, Appendix C, pp. 130–131. The **streamlined check and quantities below are campaign house rules**, not the supplement's full harvesting procedure. The original supplement remains the authority for ingredient descriptions and alchemical properties.
 
+## Click-to-Roll Foraging (Obsidian)
+
+> [!tip] One-click rolling
+> Choose the terrain and click **Roll Foraging**. The result automatically rolls **d100** against the terrain's table and **1d4** for quantity. Roll Notos's Nature check normally first, or use the optional check controls below. **Requires the installed Dataview plugin with JavaScript queries enabled** (Settings → Dataview → Enable JavaScript Queries). This block reads the tables farther down this same note; no duplicate ingredient list is required.
+
+```dataviewjs
+// Quick Foraging — City and Wild | Reads the Markdown tables in this note.
+const source = await dv.io.load(dv.current().file.path);
+if (!source) {
+  dv.paragraph("Cannot load this note's foraging tables.");
+} else {
+  const terrains = ["Aquatic", "Arctic & Cold", "Caves", "Desert & Arid",
+    "Forests & Woodlands", "Mountains", "Plains", "Swamps"];
+  const tableData = {};
+  for (let i = 0; i < terrains.length; i++) {
+    const heading = "## " + terrains[i];
+    const begin = source.indexOf(heading);
+    if (begin === -1) continue;
+    const next = source.indexOf("\n## ", begin + heading.length);
+    const section = source.slice(begin + heading.length, next < 0 ? undefined : next);
+    const rows = [];
+    for (const line of section.split("\n")) {
+      const m = line.match(/^\|\s*(\d+)(?:\s*-\s*(\d+))?\s*\|\s*([^|]+?)\s*\|\s*(Common|Uncommon|Rare)\s*\|\s*$/);
+      if (m) rows.push({min: Number(m[1]), max: Number(m[2] || m[1]),
+        ingredient: m[3].trim(), rarity: m[4]});
+    }
+    tableData[terrains[i]] = rows;
+  }
+
+  const root = dv.container.createDiv({cls: "quick-foraging-roller"});
+  root.style.cssText = "border:1px solid var(--background-modifier-border);border-radius:12px;padding:16px;margin:8px 0;";
+  const controlRow = root.createDiv();
+  controlRow.style.cssText = "display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:12px;";
+  const label = controlRow.createEl("label", {text:"Terrain: "});
+  const terrainSelect = label.createEl("select");
+  terrainSelect.style.cssText = "padding:6px;border-radius:6px;";
+  terrains.forEach(t => terrainSelect.createEl("option", {text:t, value:t}));
+
+  const checkLabel = controlRow.createEl("label", {text:"Nature modifier: "});
+  const mod = checkLabel.createEl("input", {type:"number", value:"0"});
+  mod.style.cssText = "width:65px;padding:5px;border-radius:6px;";
+  const dcLabel = controlRow.createEl("label", {text:"DC: "});
+  const dc = dcLabel.createEl("select");
+  [10,15,20].forEach((n,i) => dc.createEl("option", {text:n+" ("+["abundant","limited","scarce"][i]+")",value:String(n)}));
+  dc.value = "15";
+  const rollButton = controlRow.createEl("button", {text:"🎲 Roll Foraging"});
+  rollButton.addClass("mod-cta");
+  const rawButton = controlRow.createEl("button", {text:"🎲 Roll ingredient only"});
+
+  const result = root.createDiv();
+  result.style.cssText = "padding:12px;border-radius:8px;background:var(--background-secondary);min-height:64px;";
+  result.setText("Choose terrain. Roll Foraging makes the Nature check and discovery together; or roll ingredient only after a successful check at the table.");
+
+  const d = sides => Math.floor(Math.random() * sides) + 1;
+  function display(rollCheck) {
+    const terrain = terrainSelect.value;
+    const entries = tableData[terrain] || [];
+    if (!entries.length) {
+      result.setText("No table found for " + terrain + ". Check that its Markdown table is present.");
+      return;
+    }
+    result.empty();
+    if (rollCheck) {
+      const natural = d(20);
+      const bonus = Number(mod.value) || 0;
+      const total = natural + bonus;
+      const passed = total >= Number(dc.value);
+      result.createEl("div", {text:"Nature: " + natural + " + (" + bonus + ") = " + total +
+        " vs DC " + dc.value + " — " + (passed ? "SUCCESS" : "NO FIND")});
+      if (!passed) {
+        result.createEl("div", {text:"No useful ingredient found in this search."});
+        return;
+      }
+    }
+    const d100 = d(100), units = d(4);
+    const entry = entries.find(e => d100 >= e.min && d100 <= e.max);
+    if (!entry) { result.setText("No entry matches d100 = " + d100); return; }
+    result.createEl("div", {text:"d100: " + d100 + " · " + terrain});
+    const found = result.createEl("strong", {text:entry.ingredient});
+    found.style.cssText = "display:block;font-size:1.15em;margin:4px 0;";
+    result.createEl("div", {text:entry.rarity + " · 1d4 = " + units + " unit" + (units===1?"":"s")});
+    const record = result.createEl("code", {text:entry.ingredient + " — " + entry.rarity + " — " + units + " unit" + (units===1?"":"s")});
+    record.style.cssText = "display:block;margin-top:8px;white-space:normal;";
+    const copy = result.createEl("button", {text:"Copy result"});
+    copy.style.marginTop = "8px";
+    copy.onclick = () => navigator.clipboard.writeText(record.textContent || "");
+  }
+  rollButton.onclick = () => display(true);
+  rawButton.onclick = () => display(false);
+}
+```
+
+---
+
 ## Fast Foraging: 30-Second Procedure
 
 1. **Choose terrain** based on the party's current surroundings: Aquatic, Arctic & Cold, Caves, Desert & Arid, Forests & Woodlands, Mountains, Plains, or Swamps.
