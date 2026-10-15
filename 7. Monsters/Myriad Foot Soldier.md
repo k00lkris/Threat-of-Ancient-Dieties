@@ -19,7 +19,7 @@ tags:
 
 > [!infobox]
 > # Myriad Foot Soldier
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> ![[Myriad Foot Soldier.png|cover hsmall]]
 > ###### Basic Information
 > Type | Stat
 > ---|---
