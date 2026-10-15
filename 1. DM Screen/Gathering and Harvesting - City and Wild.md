@@ -6,7 +6,7 @@ source: "City and Wild v4.1, Chapter 7 pp. 70–86; Appendix B pp. 121–129"
 
 > [!tip] DM shortcuts
 > **Herbs:** [[Quick Foraging - City and Wild|🎲 Open the foraging roller]].
-> **Slain creature:** Choose its type, CR and size below; the calculator rolls harvesting checks, while you select the part from Appendix B.
+> **Slain creature:** Search Appendix B by any part of a monster name (suggestions appear as you type), choose its part, then select type, CR and size for the harvesting roll.
 > **Ore, crystal, wood or other exotic material:** Use the second roller below.
 >
 > **These are separate workflows in the book.** Do not treat Appendix B as a random drop list: it specifies *possible parts and estimated totals* for each creature, not guaranteed loot.
@@ -14,14 +14,14 @@ source: "City and Wild v4.1, Chapter 7 pp. 70–86; Appendix B pp. 121–129"
 ## Appendix B creature parts
 
 > [!important] Creature-specific loot list
-> The roller below searches **[[Appendix B - Parts by Creature]]** directly and shows available parts, estimated quantities and source page in the same view. Keep that downloaded file at `1. DM Screen/Appendix B - Parts by Creature.md`.
+> The roller searches **[[Appendix B - Parts by Creature]]** directly. **First setup:** download that note and save it in the same `1. DM Screen` folder. The name search then suggests matching creatures as you type. **Creature type is still needed** for the correct harvesting skill (Arcana/Nature/Religion), since Appendix B lists parts but not complete stat blocks.
 
 ## Slain Creature — Interactive Harvesting
 
 ```dataviewjs
 const root=dv.container.createDiv();
 root.style.cssText="border:1px solid var(--background-modifier-border);border-radius:12px;padding:14px;";
-const dataPath="1. DM Screen/Appendix B - Parts by Creature.md";
+const dataPath=dv.current().file.folder+"/Appendix B - Parts by Creature.md";
 const dataText=await dv.io.load(dataPath);
 const entries={};
 if(dataText){
@@ -41,8 +41,13 @@ searchRow.style.cssText="display:flex;gap:8px;align-items:center;flex-wrap:wrap;
 searchRow.createEl("strong",{text:"Appendix B creature:"});
 const search=searchRow.createEl("input",{attr:{type:"search",placeholder:"Search monster..." }});
 search.style.cssText="min-width:150px;padding:6px;";
+const hints=searchRow.createEl("datalist");
+const hintId="harvest-creatures-"+Math.random().toString(36).slice(2);
+hints.id=hintId;
+search.setAttribute("list",hintId);
 const monster=searchRow.createEl("select");
 monster.style.maxWidth="330px";
+monster.setAttribute("aria-label","Matching creatures");
 const partList=root.createDiv();
 const chosenLabel=root.createDiv();
 chosenLabel.style.cssText="margin:10px 0;";
@@ -78,7 +83,7 @@ function showParts(){
  partList.empty();chosenPart.empty();
  const found=entries[monster.value]||[];
  if(!found.length){
-  partList.setText(names.length?"Select a creature to see its parts.":"Appendix B file not found at "+dataPath+". Place the downloaded note there.");
+  partList.setText(names.length?"No matching creature. Try part of its name, or use the matching-creatures dropdown.":"Appendix B lookup unavailable. Save the downloaded Appendix B - Parts by Creature.md in the same 1. DM Screen folder as this note, then reopen the note.");
   chosenLabel.style.display="none";
   return;
  }
@@ -94,12 +99,19 @@ function showParts(){
  });
 }
 function options(){
- const q=search.value.toLowerCase();
+ const q=search.value.toLowerCase().trim();
  monster.empty();
- names.filter(n=>n.toLowerCase().includes(q)).forEach(n=>monster.createEl("option",{value:n,text:n}));
+ hints.empty();
+ const matches=names.filter(n=>n.toLowerCase().includes(q));
+ matches.forEach(n=>monster.createEl("option",{value:n,text:n}));
+ matches.slice(0,40).forEach(n=>hints.createEl("option",{value:n}));
+ if(names.includes(search.value))monster.value=search.value;
  showParts();
 }
-search.oninput=options;monster.onchange=showParts;options();
+search.oninput=options;
+search.onchange=options;
+monster.onchange=()=>{search.value=monster.value;showParts();};
+options();
 function update(){
  const [maximum,per]=specs[size.value];
  const dc=12+Math.max(0,Number(cr.value)<2?0:Number(cr.value)/2);
