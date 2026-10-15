@@ -213,6 +213,7 @@ suggestionButton.onclick=()=>{
  materialSelect.value=String(Math.floor(Math.random()*list.length));
 };
 const dc=choice("Abundance / DC",[[10,"Abundant — 10"],[15,"Limited — 15"],[20,"Scarce — 20"]]);
+const dcAdjust=number("DC modifier (+/-)",0);
 const search=choice("Find a deposit?",[["no","Already found"],["yes","Roll Nature search"]]);
 const nature=number("Nature search bonus",4);
 const bonus=number("Gathering check bonus",4);
@@ -222,7 +223,8 @@ output.setText("Search (optional), then gather. Each gathering check takes 1 hou
 const button=root.createEl("button",{text:"🎲 Roll gathering"});button.addClass("mod-cta");button.style.marginTop="10px";
 const d=s=>Math.floor(Math.random()*s)+1;
 button.onclick=()=>{
- output.empty();const target=Number(dc.value);let passed=true;
+ output.empty();const baseDC=Number(dc.value),adjustment=Number(dcAdjust.value)||0,target=baseDC+adjustment;let passed=true;
+ output.createEl("div",{text:"DC: "+baseDC+" "+(adjustment<0?"− ":"+ ")+Math.abs(adjustment)+" = "+target});
  const selected=namedMaterial();
  if(selected){output.createEl("strong",{text:"Material: "+selected[0]+" · "+selected[1]+" · "+selected[2]+" gp/unit"});}
  else if(group.value==="Plants and herbs"){output.createEl("div",{text:"Plant identity: use the Quick Foraging terrain roller for a named herb, then gather it here."});}
@@ -255,7 +257,7 @@ button.onclick=()=>{
 | Plants and herbs | Herbalism kit | Dexterity or Intelligence |
 | Other materials | Varies | Varies |
 
-**Search:** 30 minutes and Intelligence (Nature) DC 10 (abundant), 15 (limited), or 20 (very scarce). Increase DC by 2/5/10 when specifically locating a **rare / very rare / legendary** material. Once identified, gathering uses Strength, Dexterity or Intelligence as relevant, with applicable proficiency. **Each gathering check: 1 hour.** Maximum attempts equal the higher of Intelligence or Constitution modifier (minimum one). On success by 0–4: **1d4 + ability modifier** units; success by 5–9: **1d6 + ability modifier**; success by 10+: **1d8 + ability modifier**. DM may increase subsequent DC by 2 as the deposit is depleted.
+**Search:** 30 minutes and Intelligence (Nature) DC 10 (abundant), 15 (limited), or 20 (very scarce). Increase DC by 2/5/10 when specifically locating a **rare / very rare / legendary** material. Once identified, gathering uses Strength, Dexterity or Intelligence as relevant, with applicable proficiency. **Each gathering check: 1 hour.** Use the **DC modifier** field to adjust the base DC (for example, 15 + 2 = 17) as a deposit becomes depleted. Maximum attempts equal the higher of Intelligence or Constitution modifier (minimum one). On success by 0–4: **1d4 + ability modifier** units; success by 5–9: **1d6 + ability modifier**; success by 10+: **1d8 + ability modifier**. DM may increase subsequent DC by 2 as the deposit is depleted.
 
 > [!note] Reference index — Chapter 7
 > - **p. 70:** Material sources, material search, creature checks and skills.
