@@ -18,7 +18,7 @@ tags:
 
 > [!infobox]
 > # Myriad Lieutenant
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> ![[Myriad Lieutenant.jpg|cover hsmall]]
 > ###### Basic Information
 > Type | Stat
 > ---|---

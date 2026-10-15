@@ -18,7 +18,7 @@ tags:
 
 > [!infobox]
 > # Myriad Interceptor
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> ![[Myriad Interceptor.jpg|cover hsmall]]
 > ###### Basic Information
 > Type | Stat
 > ---|---

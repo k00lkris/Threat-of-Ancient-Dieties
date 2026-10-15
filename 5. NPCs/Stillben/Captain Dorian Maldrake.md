@@ -17,7 +17,7 @@ tags:
 
 > [!infobox]
 > # Captain Dorian Maldrake
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> ![[Captain Dorian Maldrake.jpg|cover hsmall]]
 > ###### Basic Information
 > Type | Stat
 > ---|---

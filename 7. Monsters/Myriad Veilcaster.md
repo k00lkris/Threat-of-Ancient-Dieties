@@ -18,7 +18,7 @@ tags:
 
 > [!infobox]
 > # Myriad Veilcaster
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> ![[Myriad Veilcaster.jpg|cover hsmall]]
 > ###### Basic Information
 > Type | Stat
 > ---|---
