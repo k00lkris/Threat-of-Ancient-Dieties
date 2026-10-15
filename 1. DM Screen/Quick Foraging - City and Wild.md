@@ -61,6 +61,9 @@ if (!source) {
   const dc = dcLabel.createEl("select");
   [10,15,20].forEach((n,i) => dc.createEl("option", {text:n+" ("+["abundant","limited","scarce"][i]+")",value:String(n)}));
   dc.value = "15";
+  const adjustmentLabel = controlRow.createEl("label", {text:"DC modifier (+/-): "});
+  const dcAdjust = adjustmentLabel.createEl("input", {type:"number", value:"0"});
+  dcAdjust.style.cssText = "width:65px;padding:5px;border-radius:6px;";
   const rollButton = controlRow.createEl("button", {text:"🎲 Roll Foraging"});
   rollButton.addClass("mod-cta");
   const rawButton = controlRow.createEl("button", {text:"🎲 Roll ingredient only"});
@@ -82,9 +85,10 @@ if (!source) {
       const natural = d(20);
       const bonus = Number(mod.value) || 0;
       const total = natural + bonus;
-      const passed = total >= Number(dc.value);
+      const effectiveDC = Number(dc.value) + (Number(dcAdjust.value) || 0);
+      const passed = total >= effectiveDC;
       result.createEl("div", {text:"Nature: " + natural + " + (" + bonus + ") = " + total +
-        " vs DC " + dc.value + " — " + (passed ? "SUCCESS" : "NO FIND")});
+        " vs DC " + dc.value + " + (" + (Number(dcAdjust.value) || 0) + ") = " + effectiveDC + " — " + (passed ? "SUCCESS" : "NO FIND")});
       if (!passed) {
         result.createEl("div", {text:"No useful ingredient found in this search."});
         return;
@@ -115,8 +119,9 @@ if (!source) {
 1. **Choose terrain** based on the party's current surroundings: Aquatic, Arctic & Cold, Caves, Desert & Arid, Forests & Woodlands, Mountains, Plains, or Swamps.
 2. **One check per meaningful travel/exploration segment** (or when the party deliberately spends time foraging). Roll **Intelligence (Nature)**. The character can choose to spend **30 minutes** actively searching, matching the book's baseline search time. Passive foraging while walking is an optional DM allowance.
 3. **Set the DC** by how much plant life is realistically accessible: **10 abundant / 15 limited / 20 very scarce**. *City and Wild* additionally suggests **+2 rare, +5 very rare, +10 legendary** when deliberately searching for a material of that rarity. For a **random** find using the d100 tables, don't add rarity modifiers after the roll: the table already weights rarities.
-4. **On success:** roll **1d100** on the selected table. Award **1d4 units** of the named material (campaign shortcut; adjust to 1 unit for scarce regions if desired). **On failure:** no useful material found.
-5. **Log only:** `Ingredient — rarity — units` in Notos's inventory. Save recipe questions, pricing, and crafting for downtime.
+4. **DC adjustment:** Enter an optional positive or negative **DC modifier** for scarcity or depletion (e.g. abundant DC 10 + 2 = 12). The adjusted DC applies to the Nature check; the terrain discovery table is unchanged.
+5. **On success:** roll **1d100** on the selected table. Award **1d4 units** of the named material (campaign shortcut; adjust to 1 unit for scarce regions if desired). **On failure:** no useful material found.
+6. **Log only:** `Ingredient — rarity — units` in Notos's inventory. Save recipe questions, pricing, and crafting for downtime.
 
 > [!tip] Fastest possible live call
 > "Cesar, Nature DC 15. Success? Roll d100. You found **[table result]**, **1d4 units**. Note it down. Back to the scene."
