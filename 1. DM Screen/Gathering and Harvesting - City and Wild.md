@@ -165,7 +165,7 @@ These are **suggested ceilings**, not a guarantee that each named part can be ha
 
 ## Exotic Materials — Interactive Gathering
 
-Use this for material deposits or identifiable herbs **after** locating them, rather than the foraging discovery shortcut. Source: Chapter 7 pp. 70–71.
+Use this for material deposits or identifiable herbs **after** locating them, rather than the foraging discovery shortcut. **Choose a named material** to record what Notos actually collected. The optional **Suggest material** button picks a random name from the book’s lists, but rarity is not automatically a probability or proof that the resource exists at the current location. Source: Chapter 7 pp. 70–73.
 
 ```dataviewjs
 const root=dv.container.createDiv();
@@ -179,6 +179,39 @@ function number(label,value){
  const w=row.createDiv();w.createEl("div",{text:label});const e=w.createEl("input",{type:"number",value:String(value)});e.style.width="75px";return e;
 }
 const group=choice("Material",[["Ores","Ores (Strength)"],["Crystals and stones","Crystals & stones (Str/Dex)"],["Wood","Wood (Str/Dex)"],["Plants and herbs","Plants & herbs (Dex/Int)"],["Other materials","Other (DM choice)"]]);
+// Named materials and rarity/value from City and Wild v4.1, p. 73.
+// Random picks are optional DM suggestions, not source-defined encounter probabilities.
+const catalog={
+ "Ores":[["Adamantine","Uncommon",100],["Aetherium","Very Rare",480],["Cold iron","Common",20],["Ebonite","Uncommon",60],["Mithral","Uncommon",40],["Netherite","Very Rare",480],["Orichalcum","Rare",200],["Plaguesteel","Common",30],["Silver","Common",20],["Umbrite","Uncommon",40],["Voidsteel","Legendary",1280]],
+ "Crystals and stones":[["Aerocrystal","Uncommon",80],["Aquastone","Uncommon",40],["Arcanite quartz","Rare",240],["Cerulite crystal","Uncommon",60],["Dwarvenstone","Common",20],["Ignum","Uncommon",60],["Obsidian","Uncommon",40],["Primordium","Uncommon",40],["Psionite","Uncommon",60]],
+ "Wood":[["Blazewood","Uncommon",60],["Feywood","Common",30],["Gloomwood","Common",30],["Ironwood","Common",20],["Spiritwood","Rare",160]],
+ "Other materials":[["Eternal ice","Uncommon",60],["Green amber","Very Rare",480],["Leafweave","Common",20],["Shadow linen","Common",30]]
+};
+const materialRow=root.createDiv();
+materialRow.style.cssText="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:10px;";
+materialRow.createEl("span",{text:"Specific material:"});
+const materialSelect=materialRow.createEl("select");
+const suggestionButton=materialRow.createEl("button",{text:"🎲 Suggest material"});
+const materialHint=materialRow.createEl("small",{text:"Optional random suggestion; DM decides whether that material exists in this location."});
+materialHint.style.display="block";
+function fillMaterials(){
+ materialSelect.empty();
+ if(group.value==="Plants and herbs"){
+  materialSelect.createEl("option",{value:"",text:"Use the terrain-based plant foraging roller"});
+ } else if(group.value==="Other materials"){
+  catalog["Other materials"].forEach((m,i)=>materialSelect.createEl("option",{value:String(i),text:m[0]+" ("+m[1]+")"}));
+ } else {
+  (catalog[group.value]||[]).forEach((m,i)=>materialSelect.createEl("option",{value:String(i),text:m[0]+" ("+m[1]+")"}));
+ }
+}
+function namedMaterial(){const list=catalog[group.value]||[];return list[Number(materialSelect.value)]||null;}
+group.onchange=fillMaterials;
+fillMaterials();
+suggestionButton.onclick=()=>{
+ const list=catalog[group.value]||[];
+ if(!list.length)return;
+ materialSelect.value=String(Math.floor(Math.random()*list.length));
+};
 const dc=choice("Abundance / DC",[[10,"Abundant — 10"],[15,"Limited — 15"],[20,"Scarce — 20"]]);
 const search=choice("Find a deposit?",[["no","Already found"],["yes","Roll Nature search"]]);
 const nature=number("Nature search bonus",4);
@@ -190,6 +223,10 @@ const button=root.createEl("button",{text:"🎲 Roll gathering"});button.addClas
 const d=s=>Math.floor(Math.random()*s)+1;
 button.onclick=()=>{
  output.empty();const target=Number(dc.value);let passed=true;
+ const selected=namedMaterial();
+ if(selected){output.createEl("strong",{text:"Material: "+selected[0]+" · "+selected[1]+" · "+selected[2]+" gp/unit"});}
+ else if(group.value==="Plants and herbs"){output.createEl("div",{text:"Plant identity: use the Quick Foraging terrain roller for a named herb, then gather it here."});}
+ else {output.createEl("div",{text:"Select a specific material above."});return;}
  if(search.value==="yes"){
  const die=d(20),total=die+(Number(nature.value)||0);
  passed=total>=target;
@@ -203,6 +240,7 @@ button.onclick=()=>{
  const raw=d(sides)+(Number(ability.value)||0);
  const units=Math.max(0,raw);
  output.createEl("strong",{text:"Success by "+margin+" · 1d"+sides+" + ability modifier = "+raw+" unit(s)"+(units!==raw?" (minimum 0 used)":"")});
+ if(selected){output.createEl("div",{text:"Collected: "+units+" unit(s) of "+selected[0]+" ("+selected[1]+")."});const copy=output.createEl("button",{text:"Copy material result"});copy.onclick=()=>navigator.clipboard.writeText(selected[0]+" — "+selected[1]+" — "+units+" units");}
  output.createEl("div",{text:"1 hour spent. DM may increase DC by 2 for later extractions of the same material in the same area."});
 };
 ```
