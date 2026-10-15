@@ -13,6 +13,9 @@ rules: "House rule — Fast Foraging"
 > **Notos asks to forage → Nature check → d100 → ingredient + quantity → move on.**
 > This page adapts the **published plant discovery tables** in *City and Wild v4.1*, Appendix C, pp. 130–131. The **streamlined check and quantities below are campaign house rules**, not the supplement's full harvesting procedure. The original supplement remains the authority for ingredient descriptions and alchemical properties.
 
+> [!info] More gathering tools
+> **Creature harvesting, exotic ores, crystals, and wood:** [[Gathering and Harvesting - City and Wild|🎲 Gathering & Harvesting Roller]] (Chapter 7).
+
 ## Click-to-Roll Foraging (Obsidian)
 
 > [!tip] One-click rolling
