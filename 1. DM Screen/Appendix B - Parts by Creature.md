@@ -11,8 +11,8 @@ source: "City and Wild v4.1, Appendix B pp. 121-129"
 
 ```dataviewjs
 const text = await dv.io.load(dv.current().file.path);
-const start=text.indexOf('<!-- APPENDIX_B_START -->');
-const end=text.indexOf('<!-- APPENDIX_B_END -->');
+const start=text.lastIndexOf('<!-- APPENDIX_B_START -->');
+const end=text.lastIndexOf('<!-- APPENDIX_B_END -->');
 const data=(start>=0&&end>start)?text.slice(start,end):'';
 const creatures={};
 for(const line of data.split('\n')){
