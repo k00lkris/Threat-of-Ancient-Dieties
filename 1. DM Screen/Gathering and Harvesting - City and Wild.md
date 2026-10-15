@@ -25,8 +25,8 @@ const dataPath=dv.current().file.folder+"/Appendix B - Parts by Creature.md";
 const dataText=await dv.io.load(dataPath);
 const entries={};
 if(dataText){
- const start=dataText.indexOf("<!-- APPENDIX_B_START -->");
- const end=dataText.indexOf("<!-- APPENDIX_B_END -->");
+ const start=dataText.lastIndexOf("<!-- APPENDIX_B_START -->");
+ const end=dataText.lastIndexOf("<!-- APPENDIX_B_END -->");
  if(start>=0&&end>start){
   for(const line of dataText.slice(start,end).split("\n")){
    const m=line.match(/^\| ([^|]+) \| ([^|]+) \| ([^|]+) \| (\d+) \|$/);
