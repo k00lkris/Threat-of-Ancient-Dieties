@@ -70,7 +70,16 @@ Captain **Dorian Maldrake** commands the *Azure Gale*, the vessel the Reapers ha
 | Misses departure | Ship may sail, provided the departure deadline was communicated and elapsed. |
 
 > [!important] Timing
-> No exact boarding deadline or fare is established in existing notes. Set these at the table when relevant, rather than claiming a previous agreement gave a specific clock time.
+> **9:30 AM** is now the scheduled cast-off time. [[Act 3 (2) - Choosing a Ship]] lists Maldrake's **200 gp/person** fare, including meals and lodging; whether the party has already paid remains a table-history question. The captain also carries legitimate merchant freight destined for **Brokenbank, Wildemount**, to be delivered **after** the Shattered Isles stop. See [[Act 4 - Boarding the Azure Gale]].
+
+
+## Passenger Terms for the Shattered Isles
+
+The *Azure Gale* is a **fast commercial transport**, carrying freight, paying passengers, or both on different contracts—not a regular passenger ship. **The Reapers are the only passengers** on this voyage; the rest aboard are crew. The listed fare is **200 gp per person including meals and lodging**, with a scheduled **9:30 AM departure** from Stillben.
+
+**Before accepting any payment or boarding**, Maldrake requires the Reapers' informed agreement: he will land them only where safe, wait **up to 24 hours** offshore, then sail to **Brokenbank** with his lawful cargo. If they reboard during that first window, they may accompany him to Brokenbank. If they need longer, he will attempt a single rendezvous on the return leg about **3–4 days after drop-off**, subject to weather and a safe approach, and then sail **directly to Stillben**—no Wildemount stop for the Reapers. A signal and rendezvous landmark must be agreed before landing. He cannot promise an indefinite second wait or take unacceptable risks with ship and crew.
+
+**If the Reapers decline his terms**, he refuses their coins and passage; any deposit already accepted without disclosure is returned. Refer to [[Act 4 - Boarding the Azure Gale]] for the full scene and read-aloud.
 
 ## Running the Captain
 
@@ -79,7 +88,13 @@ Maldrake is a **decision-making NPC**, not a quest marker. Let the players make 
 > [!info] Combat use
 > A dedicated combat statblock is intentionally deferred. This scene does not presume a battle with the captain. If combat becomes relevant, create and test one rather than silently substituting a powerful published monster.
 
+## Merchant background
+
+The *Azure Gale* is a fast, maneuverable merchant sailing ship commanded by a former naval officer. On this unusually long voyage, Maldrake has made a lawful freight arrangement to deliver goods at **Brokenbank in Wildemount**, beyond the Reapers' intended Shattered Isles stop. This helps pay for the crossing without altering his commitment to safe, lawful passage. Maldrake still puts his ship and crew first; he will not knowingly smuggle cargo or wreck his ship on an unsafe approach.
+
 ## Links
 
 - [[Shadows Over Stillben]]
 - [[Act 2 - The Myriad's Warning]]
+- [[Act 4 - Boarding the Azure Gale]]
+- [[Act 3 (2) - Choosing a Ship]]
