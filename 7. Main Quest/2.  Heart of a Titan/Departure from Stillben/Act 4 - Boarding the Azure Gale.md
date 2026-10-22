@@ -121,7 +121,7 @@ Use only as many introductions as the pacing permits. Let conversations arise fr
 | NPC | First sight | Optional interaction |
 |---|---|---|
 | [[Mara Voss]] — first mate | Directing cargo loading and boarding | "Keep the gangplank clear. If you're sailing, I'll need your names and where you'll stow your gear." |
-| [[Thalen Reed]] — navigator | Comparing his chart to the morning light and current | Can discuss the proposed sailing route, winds, and why a 7–10-day estimate is only an estimate |
+| [[Thalen Reed]] — navigator | Comparing his chart to the morning light and current | Can discuss the proposed sailing route, winds, and why the 8–11-day estimate is only a planning window |
 | [[Bram Copperkettle]] — cook | Supervising baskets and galley stores | Offers food, friendly gossip, or a chance to learn about life at sea |
 | [[Pip Ashfall]] — deckhand | Working the rigging above the quay | Curious about the Reapers' equipment or magic; may offer to show them a safe place on deck |
 | [[Garran Holt]] — shipwright | Inspecting planking, seams, and a hatch cover | Can discuss maintenance, tools, and salvaging materials with Notos |
@@ -166,7 +166,7 @@ Maldrake is strict but fair. **First run [[#Binding passage terms — before boa
 - **How much did we agree to pay?** **200 gp per person, including food and lodging**, as listed in [[Act 3 (2) - Choosing a Ship]]. Determine whether it was already paid in play; **do not charge twice**.
 
 - **Why all the cargo?** Maldrake has contracted to deliver lawful freight to **Brokenbank in Wildemount**, after the Shattered Isles stop, to make this voyage financially worthwhile. He isn't detouring to Wildemount first.
-- **Which route?** An offshore crossing with careful navigation near the isles, then Brokenbank. The map's **651.7-mile** measure is not a hazard-checked sailing track; Thalen can discuss alternatives based on conditions.
+- **Which route?** An offshore crossing with careful navigation near the isles, then Brokenbank. The measured **744.9-mile waypoint route** is not a hazard-checked sailing track; Thalen can discuss alternatives based on conditions.
 
 ### Brief ship rules
 
