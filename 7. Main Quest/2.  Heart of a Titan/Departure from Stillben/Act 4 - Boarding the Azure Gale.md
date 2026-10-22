@@ -15,23 +15,24 @@ tags: [campaign, session-15, stillben, azure-gale, dm-only]
 
 ## DM overview
 
-Stillben is busy regardless of what the Reapers decide. Cargo is arriving, sailors are checking lines and provisions, and other vessels are working the waterfront. The *Azure Gale* is preparing for a long commercial sailing into increasingly unfamiliar waters. Maldrake has also taken on **lawful merchant cargo destined for Brokenbank**, a Wildemount port near the proposed Shattered Isles position, so the expedition can pay its way. The captain has not secretly enlisted in the Myriad's schemes.
+Stillben is busy regardless of what the Reapers decide. Cargo is arriving, sailors are checking lines and provisions, and other vessels are working the waterfront. The *Azure Gale* is a fast, maneuverable **working transport ship—not a regular passenger vessel**. Depending on the contract, her cargo can be freight, people, or both. **The Reapers are the only passengers on this sailing**; everyone else aboard is crew. The ship is preparing for a long commercial voyage into increasingly unfamiliar waters. Maldrake has also taken on **lawful merchant cargo destined for Brokenbank**, a Wildemount port near the proposed Shattered Isles position, so the expedition can pay its way. The captain has not secretly enlisted in the Myriad's schemes.
 
 The immediate goals are to:
 - Give the players a tangible, memorable introduction to the ship and its established crew.
 - Provide a brief, open opportunity to speak with Maldrake about Hurk, Heijla, the Myriad, and departure arrangements.
-- Establish practical shipboard boundaries **without** imposing a new surprise cost or contract.
+- Present Maldrake's **nonnegotiable landing and return conditions before coin changes hands or anyone boards as a passenger**; refusal means he declines the booking and their money.
+- Establish practical shipboard boundaries and an informed decision about transport.
 - Move naturally from port to sea if the Reapers choose to sail.
 - Preserve the possibility that they instead return to the city, miss departure, or make another arrangement.
 
 > [!note] Known vs. proposed
-> The *Azure Gale*, Maldrake, the arranged passage, and the five named crew NPCs are already in the vault. The sensory details, briefing, and optional complications below are **new scene preparation**. The ship's exact dimensions, full crew complement, armament, cargo contents, and whether the party already paid are **not yet established**. The **listed fare is 200 gp per passenger, with food and lodging included**, from [[Act 3 (2) - Choosing a Ship]]; the **planned departure is 9:30 AM**. Do not double-charge characters if they already paid.
+> The *Azure Gale*, Maldrake, the arranged passage, and the five named crew NPCs are already in the vault. The sensory details, briefing, and optional complications below are **new scene preparation**. The ship's exact dimensions, full crew complement, armament, cargo contents, and whether the party already paid are **not yet established**. If funds were handed over in earlier play without discussion of these newly established terms, Maldrake must explain the conditions and offer to return the fare if the Reapers decline. The **listed fare is 200 gp per passenger, with food and lodging included**, from [[Act 3 (2) - Choosing a Ship]]; the **planned departure is 9:30 AM**. Do not double-charge characters if they already paid.
 
 ---
 
 ## The Azure Gale — background and merchant voyage
 
-**Established in [[Act 3 (2) - Choosing a Ship]]:** Captain Dorian **"The Tidehawk" Maldrake** is a former naval officer who now commands the *Azure Gale*, a sleek, fast merchant sailing ship built for maneuverability. He is lawful, professional, highly respected among sailors, and reluctant to deviate into unsafe waters. Passage costs **200 gp per person** and includes **food and lodging**. He will not knowingly accept illegal cargo or smuggling work.
+**Established in [[Act 3 (2) - Choosing a Ship]]:** Captain Dorian **"The Tidehawk" Maldrake** is a former naval officer who now commands the *Azure Gale*, a sleek, fast merchant sailing ship built for maneuverability. He is lawful, professional, highly respected among sailors, and reluctant to deviate into unsafe waters. Passage costs **200 gp per person** and includes **food and lodging**. He will not knowingly accept illegal cargo or smuggling work. The *Azure Gale* is a **transport**: in other voyages it carries goods, passengers, or a mixture according to contract, but it has **no scheduled passenger service** and **no other passengers on this trip**.
 
 **New established voyage plan:** Maldrake has accepted an ordinary, **lawful freight contract for Brokenbank**, in the Swavain Islands of Wildemount. The *Azure Gale* will carry the Reapers toward the Shattered Isles, where the expedition intends to disembark if a safe approach can be found, and **afterward** make its merchant delivery at Brokenbank. Commercial freight offsets the cost and opportunity of a long, unusual passage. No hidden cargo conspiracy is presumed.
 
@@ -42,12 +43,44 @@ The immediate goals are to:
 3. **The Shattered Isles** — approach cautiously, survey for rocks and shoals, and put the party ashore only at a feasible landing. Maldrake will not deliberately wreck his ship or guarantee that he can anchor near the islands.
 4. **Brokenbank, Wildemount** — intended **cargo discharge port** after the Reapers' landing; the mainland Menagerie Coast is not part of the planned itinerary.
 
-**Map reference:** [Red Giant Maps — Exandria](https://redgiantmaps.com/maps/exandria). The screenshot previously measured **651.7 miles directly from Stillben to the proposed Shattered Isles point**. This is a **map measurement**, not a confirmed safe sailing route. Brokenbank appears closest among the named Wildemount ports in that area; the captain and [[Thalen Reed]] still need to assess shoals, currents, weather, and possible offshore hazards before selecting actual waypoints. **Do not assign an invented exact sailing distance to Brokenbank.** The 7–10-day crossing remains an estimate, subject to route and weather. 
+**Updated sailing measurement:** The party measured **744.9 miles from Stillben to the Shattered Isles along the proposed merchant route**, not a direct line. Maldrake and Thalen favor known commercial waters and avoid Darktow and its pirate approaches. The Brokenbank leg remains unmeasured. A practical expectation is **approximately 8–11 days to the Shattered Isles**, depending on weather, progress, and navigable waypoints; no exact arrival day is guaranteed.
+
+**Map reference:** [Red Giant Maps — Exandria](https://redgiantmaps.com/maps/exandria). A preliminary screenshot measured **651.7 miles as a direct line**; the later **744.9-mile waypoint route** supersedes that as the voyage-planning distance, though neither is a verified nautical chart. Brokenbank appears closest among the named Wildemount ports in that area; the captain and [[Thalen Reed]] still need to assess shoals, currents, weather, and possible offshore hazards before selecting actual waypoints. **Do not assign an invented exact sailing distance to Brokenbank.** Use the updated **8–11-day planning window** for the crossing, subject to route and weather. 
 
 **Cargo note for the DM:** Use ordinary sealed trade goods, cloth, hardware, and provision crates as descriptions, not an undeclared mystery shipment. The buyer, cargo manifest, tonnage, and profit can be supplied later if the players investigate; they're not necessary to board.
 
 > [!important] 9:30 AM sailing
 > **9:30 AM is the scheduled casting-off time, not when boarding begins.** Mara should issue a clear final call before then. If the players are still ashore at 9:30 AM, the ship leaves unless they have secured a credible delay. If they miss it, run the alternative-captain guidance below. Do not silently force departure at a different time.
+
+---
+
+## Binding passage terms — before boarding
+
+> [!danger] Mandatory captain's disclosure, not a mandatory player choice
+> Maldrake **will not accept the Reapers' 200 gp/person fare or allow them aboard as passengers until they understand and agree** to the following. He does not negotiate away his ship's safety or freight schedule. If they decline, he **rejects their coin** (or returns any money already taken for this booking), and they can seek another captain from [[Act 3 (2) - Choosing a Ship]].
+
+1. **Safe approach only.** He will take the party toward the Shattered Isles but will risk neither ship nor crew in dangerous reefs, hostile shallows, or an unsafe anchorage. He chooses a defensible offshore position and an achievable transfer ashore.
+2. **24-hour wait.** Once the party is landed, he can remain nearby **up to 24 hours**, weather and safety permitting. If they return in time, they can accompany the *Azure Gale* to **Brokenbank**, with the option to disembark there for other Wildemount adventures or arrange their own onward passage.
+3. **Freight commitment.** After that window, whether or not the Reapers have returned, the *Azure Gale* leaves for Brokenbank and delivers her contracted freight. He will not abandon the cargo arrangement or remain in hazardous waters indefinitely.
+4. **Return pickup.** On his return leg, he is willing to **swing back past the designated rendezvous** approximately **3–4 days after the initial drop-off**. This is an estimate, not a guaranteed hour; weather, cargo handling, and safe conditions determine whether he can approach.
+5. **Stillben-bound return.** Anyone boarding during that return pickup travels **back to Stillben**, not onward to Brokenbank. **The opportunity to visit Wildemount aboard the *Azure Gale* is lost** if they miss the original 24-hour window.
+6. **Missed rendezvous.** He will not wait indefinitely for the party a second time. If they are absent or offshore approach is unsafe, the ship continues on; their onward travel becomes their responsibility. The Reapers should agree on a visible signal and precise coastal pickup landmark before landing.
+
+**Fare and payment:** **200 gp per passenger including food and lodging**, as listed in [[Act 3 (2) - Choosing a Ship]]. This price is for the negotiated transport arrangement described here; if the group wants a private ship held for an open-ended expedition, Maldrake refuses even at a higher offer. He need not insist they explore in 24 hours—only that he cannot wait longer.
+
+**Captain's terms — read aloud before accepting coin:**
+
+> Maldrake studies the Reapers for a moment, then rests a hand on the railing.
+>
+> "Before I take a copper from you, you'll hear the conditions. This is a transport ship, not a passenger liner. You're the only travelers I've taken aboard, and I've freight to deliver in Brokenbank."
+>
+> "I'll carry you to those islands if there's a safe way in. I won't put my crew on the rocks for your expedition. Once you're ashore, I can wait twenty-four hours. If you come back aboard in that time, you can sail on to Brokenbank with us."
+>
+> "If you need longer, I'll deliver my cargo and come past again on the return—likely three or four days after I first leave you. But that voyage goes straight back to Stillben. You won't be visiting Wildemount with me."
+>
+> "We agree on a rendezvous and a signal. If the weather turns foul or you're not there when I return, I can't promise another chance. These are the terms. If you don't care for them, keep your coin and find another captain."
+
+**Pause for a genuine decision:** Ask whether the players accept, want clarification, or will seek different passage. **Do not run the boarding sequence as completed unless they agree.** If they refuse, refer to [[#If the Azure Gale sails without them]] for alternative captains, but they may seek alternatives before 9:30 AM as well.
 
 ---
 
@@ -63,7 +96,7 @@ The immediate goals are to:
 >
 > A woman on the deck calls for someone to clear the gangplank. Nearby, an older man traces a finger along a chart while a younger sailor swings confidently from one line to another.
 >
-> The ship is making ready for a **half-past-nine** departure. Whether you are ready to leave Stillben is another question.
+> The cargo vessel is making ready for a **half-past-nine** departure; apart from her sailors, you appear to be the only prospective passengers. Whether you are ready to leave Stillben is another question.
 
 **Ask:** "What do you do as you approach the ship?"
 
@@ -109,7 +142,7 @@ These checks are suggestions; reward appropriate roleplay and relevant proficien
 
 ## Scene 3: The captain's briefing
 
-Maldrake is strict but fair. He addresses the party directly once they approach him or Mara calls him over. Adjust his speech if the party has already shared information about the missing companions.
+Maldrake is strict but fair. **First run [[#Binding passage terms — before boarding]] and secure agreement.** The briefing below follows only if the Reapers accept; do not replace the terms discussion with a quick safety speech. He addresses the party directly once they approach him or Mara calls him over. Adjust his speech if the party has already shared information about the missing companions.
 
 ### Read aloud / dialogue
 
@@ -124,10 +157,12 @@ Maldrake is strict but fair. He addresses the party directly once they approach 
 **Questions he can answer, without inventing earlier arrangements:**
 
 - **When do we sail?** **9:30 AM sharp**. Final boarding is called beforehand; a negotiated delay or real emergency can alter the time.
-- **How long?** The working expectation is **7–10 days** toward the newly proposed Shattered Isles position, subject to seas, weather, and chosen route. This is a planning estimate, not a guaranteed schedule.
+- **How long?** The working expectation is **8–11 days** toward the newly proposed Shattered Isles position, subject to seas, weather, and chosen route. This is a planning estimate, not a guaranteed schedule.
 - **Can we help?** Yes, with consent and supervision. Deck work is not required of booked passengers. See [[Act 4 - Journey at Sea]] for optional shipboard skill activities; adapt mechanics later as needed.
 - **Can we store equipment or conduct alchemy?** Routine luggage can be stowed as directed. Fire, fumes, volatile mixtures, and open flames require arrangements with the captain and cook or shipwright; don't ban Notos's crafting outright.
 - **What about Hurk and Heijla?** Maldrake is sympathetic but cannot independently locate them. He may allow a limited delay if circumstances permit, never an indefinite one.
+- **Can we keep exploring after 24 hours?** Yes, but the *Azure Gale* sails to Brokenbank. An **estimated 3–4-day** return pickup would bring the party **straight to Stillben**, not to Wildemount; refer to the binding passage terms.
+- **Are there other passengers?** **No.** The Reapers are the sole passengers; everyone else is crew. This vessel ordinarily carries freight or people under contract, not scheduled passenger traffic.
 - **How much did we agree to pay?** **200 gp per person, including food and lodging**, as listed in [[Act 3 (2) - Choosing a Ship]]. Determine whether it was already paid in play; **do not charge twice**.
 
 - **Why all the cargo?** Maldrake has contracted to deliver lawful freight to **Brokenbank in Wildemount**, after the Shattered Isles stop, to make this voyage financially worthwhile. He isn't detouring to Wildemount first.
@@ -241,7 +276,9 @@ A player wants to leave a message for an ally, document the disappearance, or ar
 - A staged departure and forged letters remain the Myriad's scheme. Do not convert a routine cargo handler into an omniscient Myriad spy.
 - Missing the ship is an allowed consequence, **not** a campaign-ending failure.
 - **Scheduled departure: 9:30 AM. Listed fare: 200 gp per person including lodging and meals.** 
-- The voyage is provisionally **7–10 days**, based on the proposed Shattered Isles site about **651.7 miles from Stillben**; this is a planning measurement, not an exact navigable route.
+- The voyage is provisionally **8–11 days**, using the player's proposed **744.9-mile waypoint route from Stillben to the Shattered Isles**; this is planning distance, not an exact navigable track.
+- **Passage must be agreed before payment or boarding.** At the Shattered Isles Maldrake waits **up to 24 hours**, then delivers freight to Brokenbank. If the party misses that window, an estimated **3–4-day** return pickup goes **directly back to Stillben**, not via Wildemount.
+- **The Reapers are the only passengers.** The *Azure Gale* is a commercial transport carrying lawful cargo as well.
 - Maldrake's legal **Wildemount cargo is bound for Brokenbank after the Shattered Isles stop**, not before.
 - The [[The Crimson Abyss|Crimson Abyss]] and Salty Dogs are genuine deadly ghosts, but **do not introduce the ship automatically on leaving port**. Any nautical encounter belongs to later voyage planning.
 - Leave the specific curse mechanism, Hurk's potential role in breaking it, and ultimate fate of either missing companion unresolved.
