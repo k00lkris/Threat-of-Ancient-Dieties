@@ -1,7 +1,7 @@
 # Session 15 — Act 3: Choices Before Departure
 
 > [!important] How to use this chapter
-> This is a **branch reference**, not seven encounters to run in order. Use only the sections that respond to what the Reapers actually do after [[Shadows Over Stillben]] and [[Act 2 - The Myriad's Warning]]. **The Myriad has a plan, but the characters retain agency.** The *Azure Gale* keeps its own schedule.
+> This is a **branch reference**, not seven encounters to run in order. Use only the sections that respond to what the Reapers actually do after [[Shadows Over Stillben]] and [[Act 2 - The Myriad's Warning]]. **The Myriad has a plan, but the characters retain agency.** The *Azure Gale* keeps its own schedule: **9:30 AM departure**, communicated in advance.
 
 **Place:** Stillben, principally the inn, streets, Waterwatch offices, and docks  
 **Time:** Morning of the planned voyage  
@@ -103,12 +103,12 @@ The Heart of a Titan quest does not vanish. The characters might secure another 
 
 ## DM pacing: the departure clock
 
-Advance these **fictional stages** when meaningful time passes, not after every die roll. Tell players plainly when departure is close. **No fixed clock time has yet been established in these notes.**
+Advance these **fictional stages** when meaningful time passes, not after every die roll. Tell players plainly when departure is close. **The ship is scheduled to cast off at 9:30 AM.**
 
 - [ ] **Morning preparations.** Discovery of Hurk and Heijla's absence; dockworkers load cargo.
 - [ ] **Final loading.** Crew secures supplies; passengers begin boarding.
 - [ ] **Boarding call.** Maldrake expects the travelers aboard. One last limited opportunity for urgent business.
-- [ ] **Casting off.** The *Azure Gale* sails unless reasonably delayed.
+- [ ] **Casting off (9:30 AM).** The *Azure Gale* sails unless reasonably delayed.
 
 > [!tip] Running the scene
 > The Myriad's pressure should not consume every street corner of Stillben. Most citizens are simply working. Tension comes from **the uncertainty of the disappearance and the ticking sailing schedule**, not from a mandatory sequence of attacks.
