@@ -4,18 +4,18 @@ tags: [campaign, session-15, stillben, azure-gale, dm-only]
 # Session 15 — Act 4: Boarding the Azure Gale
 
 **Location:** Stillben waterfront, aboard the *Azure Gale*  
-**Time:** Departure morning; exact hour determined at the table  
+**Time:** Departure morning; **9:30 AM sharp** (unless a credible emergency or negotiated exception changes the plan)  
 **Encounter:** Exploration, social interaction, transition, optional complications  
 **Previous:** [[Act 3 - Choices Before Departure]]  
 **If the party sails:** [[Act 4 - Journey at Sea]]  
 **Captain:** [[Captain Dorian Maldrake]]
 
 > [!important] Running this act
-> **Only run the boarding sequence if the characters actually come to the ship.** This is a living port scene, not a cinematic that overrides a decision to investigate Hurk and Heijla. Captain Maldrake's ship follows the departure clock established in [[Act 3 - Choices Before Departure]]. The party should hear a clear boarding warning before missing passage.
+> **Only run the boarding sequence if the characters actually come to the ship.** This is a living port scene, not a cinematic that overrides a decision to investigate Hurk and Heijla. Captain Maldrake's ship follows the departure clock established in [[Act 3 - Choices Before Departure]], with a **9:30 AM departure**. The party should hear a clear boarding warning before missing passage.
 
 ## DM overview
 
-Stillben is busy regardless of what the Reapers decide. Cargo is arriving, sailors are checking lines and provisions, and other vessels are working the waterfront. The *Azure Gale* is preparing for an ordinary commercial sailing into increasingly unfamiliar waters. The captain has not secretly enlisted in the Myriad's schemes.
+Stillben is busy regardless of what the Reapers decide. Cargo is arriving, sailors are checking lines and provisions, and other vessels are working the waterfront. The *Azure Gale* is preparing for a long commercial sailing into increasingly unfamiliar waters. Maldrake has also taken on **lawful merchant cargo destined for Brokenbank**, a Wildemount port near the proposed Shattered Isles position, so the expedition can pay its way. The captain has not secretly enlisted in the Myriad's schemes.
 
 The immediate goals are to:
 - Give the players a tangible, memorable introduction to the ship and its established crew.
@@ -25,7 +25,29 @@ The immediate goals are to:
 - Preserve the possibility that they instead return to the city, miss departure, or make another arrangement.
 
 > [!note] Known vs. proposed
-> The *Azure Gale*, Maldrake, the arranged passage, and the five named crew NPCs are already in the vault. The sensory details, briefing, and optional complications below are **new scene preparation**. The ship's exact dimensions, full crew complement, fare paid, boarding time, armament, and cargo manifest are **not yet established**; avoid asserting them as past facts.
+> The *Azure Gale*, Maldrake, the arranged passage, and the five named crew NPCs are already in the vault. The sensory details, briefing, and optional complications below are **new scene preparation**. The ship's exact dimensions, full crew complement, armament, cargo contents, and whether the party already paid are **not yet established**. The **listed fare is 200 gp per passenger, with food and lodging included**, from [[Act 3 (2) - Choosing a Ship]]; the **planned departure is 9:30 AM**. Do not double-charge characters if they already paid.
+
+---
+
+## The Azure Gale — background and merchant voyage
+
+**Established in [[Act 3 (2) - Choosing a Ship]]:** Captain Dorian **"The Tidehawk" Maldrake** is a former naval officer who now commands the *Azure Gale*, a sleek, fast merchant sailing ship built for maneuverability. He is lawful, professional, highly respected among sailors, and reluctant to deviate into unsafe waters. Passage costs **200 gp per person** and includes **food and lodging**. He will not knowingly accept illegal cargo or smuggling work.
+
+**New established voyage plan:** Maldrake has accepted an ordinary, **lawful freight contract for Brokenbank**, in the Swavain Islands of Wildemount. The *Azure Gale* will carry the Reapers toward the Shattered Isles, where the expedition intends to disembark if a safe approach can be found, and **afterward** make its merchant delivery at Brokenbank. Commercial freight offsets the cost and opportunity of a long, unusual passage. No hidden cargo conspiracy is presumed.
+
+**Proposed sailing sequence:**
+
+1. **Stillben (9:30 AM departure)** — leave port with passengers and merchant freight.
+2. **Open-water crossing** — favor clear, navigable waters with weather and currents guiding local course corrections.
+3. **The Shattered Isles** — approach cautiously, survey for rocks and shoals, and put the party ashore only at a feasible landing. Maldrake will not deliberately wreck his ship or guarantee that he can anchor near the islands.
+4. **Brokenbank, Wildemount** — intended **cargo discharge port** after the Reapers' landing; the mainland Menagerie Coast is not part of the planned itinerary.
+
+**Map reference:** [Red Giant Maps — Exandria](https://redgiantmaps.com/maps/exandria). The screenshot previously measured **651.7 miles directly from Stillben to the proposed Shattered Isles point**. This is a **map measurement**, not a confirmed safe sailing route. Brokenbank appears closest among the named Wildemount ports in that area; the captain and [[Thalen Reed]] still need to assess shoals, currents, weather, and possible offshore hazards before selecting actual waypoints. **Do not assign an invented exact sailing distance to Brokenbank.** The 7–10-day crossing remains an estimate, subject to route and weather. 
+
+**Cargo note for the DM:** Use ordinary sealed trade goods, cloth, hardware, and provision crates as descriptions, not an undeclared mystery shipment. The buyer, cargo manifest, tonnage, and profit can be supplied later if the players investigate; they're not necessary to board.
+
+> [!important] 9:30 AM sailing
+> **9:30 AM is the scheduled casting-off time, not when boarding begins.** Mara should issue a clear final call before then. If the players are still ashore at 9:30 AM, the ship leaves unless they have secured a credible delay. If they miss it, run the alternative-captain guidance below. Do not silently force departure at a different time.
 
 ---
 
@@ -41,7 +63,7 @@ The immediate goals are to:
 >
 > A woman on the deck calls for someone to clear the gangplank. Nearby, an older man traces a finger along a chart while a younger sailor swings confidently from one line to another.
 >
-> The ship is nearly ready. Whether you are ready to leave Stillben is another question.
+> The ship is making ready for a **half-past-nine** departure. Whether you are ready to leave Stillben is another question.
 
 **Ask:** "What do you do as you approach the ship?"
 
@@ -97,16 +119,19 @@ Maldrake is strict but fair. He addresses the party directly once they approach 
 >
 > He glances toward the quay.
 >
-> "If there's unfinished business ashore, now is the time to say so. Once we cast off, I won't turn back on a whim."
+> "If there's unfinished business ashore, now is the time to say so. We sail at **half past nine**. Once we cast off, I won't turn back on a whim."
 
 **Questions he can answer, without inventing earlier arrangements:**
 
-- **When do we sail?** State the deadline communicated in play, consistent with the [[Act 3 - Choices Before Departure|departure clock]]. No previously established absolute hour.
+- **When do we sail?** **9:30 AM sharp**. Final boarding is called beforehand; a negotiated delay or real emergency can alter the time.
 - **How long?** The working expectation is **7–10 days** toward the newly proposed Shattered Isles position, subject to seas, weather, and chosen route. This is a planning estimate, not a guaranteed schedule.
 - **Can we help?** Yes, with consent and supervision. Deck work is not required of booked passengers. See [[Act 4 - Journey at Sea]] for optional shipboard skill activities; adapt mechanics later as needed.
 - **Can we store equipment or conduct alchemy?** Routine luggage can be stowed as directed. Fire, fumes, volatile mixtures, and open flames require arrangements with the captain and cook or shipwright; don't ban Notos's crafting outright.
 - **What about Hurk and Heijla?** Maldrake is sympathetic but cannot independently locate them. He may allow a limited delay if circumstances permit, never an indefinite one.
-- **How much did we agree to pay?** **Do not demand a new fare** here. Resolve only if the players raise an actual unresolved payment question; prior draft ship-choice notes mention 200 gp/person, but Maldrake's dedicated page explicitly states the agreed fare was not fixed in played history.
+- **How much did we agree to pay?** **200 gp per person, including food and lodging**, as listed in [[Act 3 (2) - Choosing a Ship]]. Determine whether it was already paid in play; **do not charge twice**.
+
+- **Why all the cargo?** Maldrake has contracted to deliver lawful freight to **Brokenbank in Wildemount**, after the Shattered Isles stop, to make this voyage financially worthwhile. He isn't detouring to Wildemount first.
+- **Which route?** An offshore crossing with careful navigation near the isles, then Brokenbank. The map's **651.7-mile** measure is not a hazard-checked sailing track; Thalen can discuss alternatives based on conditions.
 
 ### Brief ship rules
 
@@ -121,11 +146,11 @@ These are reasonable policies, not an excuse to confiscate equipment or negate c
 
 ## Scene 4: Final call — a decision, not a cutscene
 
-When the fictional departure clock reaches **boarding call**, have Mara give a clear final announcement to all passengers.
+Shortly before **9:30 AM**, when the fictional departure clock reaches **boarding call**, have Mara give a clear final announcement to all passengers.
 
 > Mara raises her voice above the creak of the rigging.
 >
-> "Final boarding for the *Azure Gale*! If you're sailing with us, get aboard now. Once those lines are cast, we're gone."
+> "Final boarding for the *Azure Gale*! We cast off at **half past nine**! If you're sailing with us, get aboard now. Once those lines are cast, we're gone."
 
 **Pause and ask:** "Is there anything else you want to do in Stillben before the ship leaves?"
 
@@ -136,10 +161,25 @@ When the fictional departure clock reaches **boarding call**, have Mara give a c
 | Return to investigate Hurk and Heijla | Permit it. The ship may sail without them if time runs out. |
 | Attempt to intercept a watcher or courier | Run the relevant portion of [[Act 2 - The Myriad's Warning]]; let the clock matter but avoid forced outcomes. |
 | Reveal an immediate credible threat to the vessel | Maldrake evaluates the evidence and protects his crew; a real emergency might justify a delay. |
-| Refuse passage or miss departure | Use [[Act 3 - Choices Before Departure#7. Miss the Azure Gale]]. The Heart of a Titan quest remains accessible by other means. |
+| Refuse passage or miss departure | Use [[#If the Azure Gale sails without them]] below and [[Act 3 - Choices Before Departure#7. Miss the Azure Gale]]. The Heart of a Titan quest remains accessible by other means. |
 
 > [!warning] Player agency
 > **Don't move the ship out of port mid-conversation simply to end the scene.** Announce the impending deadline and give a meaningful final choice. Equally, don't freeze the tide and ship indefinitely if they knowingly stay ashore.
+
+---
+
+## If the Azure Gale sails without them
+
+At **9:30 AM**, Maldrake casts off if the characters have not arranged a legitimate delay. Their booking doesn't vanish from history, but their place on this sailing does. The party can still investigate Hurk and Heijla, then **secure/charter passage** with one of the other ships offered in [[Act 3 (2) - Choosing a Ship]]. These are independent captains, **not automatically waiting at the same berth**, and each retains the right to decline, demand payment, or negotiate departure. "Commandeering" by threat or seizure is also a player choice, but involves genuine consequences with owners, crews, and authorities—not the only path.
+
+| Captain / vessel | Listed passage | Tradeoff |
+|---|---|---|
+| **Elira "The Viper" Thorne — *Whisper Tide*** | **50 gp/person** | Fast, covert smuggler; dubious loyalties; may accept side business |
+| **Garrik "Storm-Eye" Renshaw — *Gilded Leviathan*** | **120 gp/person** | Storm-resistant, capable vessel; superstitious rituals and potential delays |
+| **Luthar "The Grave Tide" Voss — *Widow's Fang*** | **30 gp/person** | Dangerous pirate captain; betrayal and legal risk |
+| **Solenna "Silent Gale" Marrowind — *Veilborn*** | **A favor, not gold** | Supernatural passage; unpredictable cost and aftermath |
+
+**Running the branch:** Let the players decide whom to approach, how to make contact, and what risks to accept. Availability, speed, sailing windows, and actual transport to the Shattered Isles must be negotiated or established in play. A missed connection changes the expedition's cost and timing; **it does not terminate the campaign**.
 
 ---
 
@@ -200,7 +240,9 @@ A player wants to leave a message for an ally, document the disappearance, or ar
 - The *Azure Gale* and Maldrake **do not know** the truth of Hurk and Heijla's abduction automatically.
 - A staged departure and forged letters remain the Myriad's scheme. Do not convert a routine cargo handler into an omniscient Myriad spy.
 - Missing the ship is an allowed consequence, **not** a campaign-ending failure.
-- The voyage is provisionally **7–10 days**, based on the proposed Shattered Isles site about **651.7 miles from Stillben**; this is a planning measurement, not exact canonical navigation.
+- **Scheduled departure: 9:30 AM. Listed fare: 200 gp per person including lodging and meals.** 
+- The voyage is provisionally **7–10 days**, based on the proposed Shattered Isles site about **651.7 miles from Stillben**; this is a planning measurement, not an exact navigable route.
+- Maldrake's legal **Wildemount cargo is bound for Brokenbank after the Shattered Isles stop**, not before.
 - The [[The Crimson Abyss|Crimson Abyss]] and Salty Dogs are genuine deadly ghosts, but **do not introduce the ship automatically on leaving port**. Any nautical encounter belongs to later voyage planning.
 - Leave the specific curse mechanism, Hurk's potential role in breaking it, and ultimate fate of either missing companion unresolved.
 
