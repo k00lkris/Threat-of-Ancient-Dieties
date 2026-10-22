@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "79923c0da15c5018",
+        "id": "370b5defd5b5407e",
         "type": "tabs",
         "children": [
           {
-            "id": "9e5dd56dad8914ab",
+            "id": "961d7f40d0df51b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Main Quest/Annunaki Resurrection Ritual.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Annunaki Resurrection Ritual"
-            }
-          },
-          {
-            "id": "94a406ee0834b0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. Side Quests/Whitestone/Blood on the Stones/Act 3.md",
+                "file": "7. Main Quest/2.  Heart of a Titan/Arrival in Stillben/Act 3 (2) - Choosing a Ship.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act 3"
-            }
-          },
-          {
-            "id": "aaf2615bdea33289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Session Notes/Twelfth Session.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Twelfth Session"
-            }
-          },
-          {
-            "id": "3e94452a1cfb70a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Monsters/Myriad Foot Soldier.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Myriad Foot Soldier"
+              "title": "Act 3 (2) - Choosing a Ship"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Monsters/Myriad Foot Soldier.md",
+                "file": "7. Main Quest/2.  Heart of a Titan/Arrival in Stillben/Act 3 (2) - Choosing a Ship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,14 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Session Notes/Thirteenth Session.md"
+                "file": "7. Main Quest/2.  Heart of a Titan/Arrival in Stillben/Act 3 (2) - Choosing a Ship.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thirteenth Session"
+              "title": "Outline"
             }
           },
           {
-            "id": "619d16d5fab2bf34",
+            "id": "20fe2ba902854c34",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -200,38 +160,9 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "5761094cd72100f1",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "de9ebbe29a6ae8bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7dc7c1b627000b30",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": null,
-                "creatureName": null
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -252,11 +183,45 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3e94452a1cfb70a0",
+  "active": "961d7f40d0df51b1",
   "lastOpenFiles": [
+    "z_FantasyGroundsAssets/Stern Mara Voss Seafarer Token.png",
+    "z_FantasyGroundsAssets",
+    "7. Main Quest/2.  Heart of a Titan/Departure from Stillben/Act 4 - Boarding the Azure Gale.md",
+    "5. NPCs/Stillben/Captain Dorian Maldrake.md",
+    "7. Main Quest/2.  Heart of a Titan/Arrival in Stillben/Act 3 (2) - Choosing a Ship.md",
+    "5. NPCs/Azure Gale Crew/Garran Holt.md",
+    "5. NPCs/Azure Gale Crew/Bram Copperkettle.md",
+    "5. NPCs/Azure Gale Crew/Azure Gale Crew.md",
+    "z_Assets/Thalen Reed.jpg",
+    "z_Assets/Pip Ashfall.jpg",
+    "z_Assets/Mara Voss.jpg",
+    "z_Assets/Garran Holt.jpg",
+    "z_Assets/Bram Copperkettle.jpg",
+    "5. NPCs/Azure Gale Crew/Thalen Reed.md",
+    "5. NPCs/Azure Gale Crew/Pip Ashfall.md",
+    "5. NPCs/Azure Gale Crew/Mara Voss.md",
+    "5. NPCs/Azure Gale Crew",
+    "7. Main Quest/2.  Heart of a Titan/Departure from Stillben/Act 3 - Choices Before Departure.md",
+    "file:/Users/kristopherwoitena/Downloads/writing-block.md",
+    "5. NPCs/Stillben/Captain Renaud Varn.md",
+    "5. NPCs/The Crimson Abyss/The Crimson Abyss — The Salty Dogs.md",
+    "5. NPCs/The Crimson Abyss/Untitled.md",
+    "3. Characters/Hurk Dingleback.md",
+    "5. NPCs/The Crimson Abyss",
+    "1. DM Screen/Dashboard.md",
+    "Appendix B - Parts by Creature.md",
+    "1. DM Screen/Quick Foraging - City and Wild.md",
+    "1. DM Screen/Gathering and Harvesting - City and Wild.md",
+    "1. DM Screen/Appendix B - Parts by Creature.md",
+    "7. Main Quest/Annunaki Resurrection Ritual.md",
+    "1. DM Screen/Reputation System.md",
+    "7. Monsters/Myriad Foot Soldier.md",
     "z_Assets/Myriad Foot Soldier.png",
     "7. Monsters/Myriad Interceptor.md",
     "10. Prep Notes/Disappearance of Hurk and Heijla.md",
@@ -265,44 +230,12 @@
     "z_Assets/Myriad Interceptor.jpg",
     "z_Assets/Captain Dorian Maldrake.jpg",
     "z_Assets",
-    "7. Monsters/Myriad Veilcaster.md",
-    "7. Monsters/Myriad Lieutenant.md",
-    "5. NPCs/Stillben/Captain Dorian Maldrake.md",
-    "7. Monsters/Myriad Foot Soldier.md",
-    "7. Monsters/Harpy Matriarch.md",
-    "7. Main Quest/2.  Heart of a Titan/Departure from Stillben/Act 2 - The Myriad's Warning.md",
-    "5. NPCs/Whitestone/Captain Soren.md",
-    "5. NPCs/Kymal/Vincinte Laurent.md",
-    "5. NPCs/Stillben/Captain Renaud Varn.md",
-    "3. Characters/Magical Items/Amethyst Bow.md",
-    "z_Templates/NewNPC.md",
-    "Lord Bartholomew Hargrave 1.png",
     "Untitled.canvas",
-    "Seraphis.jpg",
-    "Pasted image 20240521100548.png",
-    "Lilly Meadowbrook.jpg",
-    "3. Characters/Letrixe Embel.md",
-    "6. Organizations/The Clasp.md",
-    "7. Main Quest/2.  Heart of a Titan/Heart of a Titan Summary.md",
-    "7. Main Quest/2.  Heart of a Titan/Departure from Stillben/Shadows Over Stillben.md",
-    "7. Main Quest/2.  Heart of a Titan/Arrival in Stillben/Act 4 - Journey at Sea.md",
     "Untitled 2",
     "7. Main Quest/2.  Heart of a Titan/Departure from Stillben",
-    "6. Session Notes/14th Session.md",
-    "3. Characters/Notos.md",
     "7. Main Quest/2.  Heart of a Titan/Arrival in Stillben",
-    "9. Random Encounters/Obsidian Veil/Obsidian Veil - Vincinte Laurent.md",
-    "6. Session Notes/10th Session Notes.md",
-    "6. Session Notes/11th Session Notes.md",
-    "6. Session Notes/12th Session.md",
-    "7. Main Quest/2.  Heart of a Titan/Arrival in Stillben/Act 3 (1) - Stillben.md",
     "4. Locations/Stillben/Outer Town",
     "4. Locations/Stillben/Inner Town",
-    "4. Locations/Stillben",
-    "5. NPCs/Stillben",
-    "10. Prep Notes",
-    "8. Side Quests/Whitestone/Blood on the Stones",
-    "Vincente Laurent.jpg",
-    "Lord Bartholomew Hargrave.png"
+    "4. Locations/Stillben"
   ]
 }
